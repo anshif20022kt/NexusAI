@@ -1,0 +1,369 @@
+po_name,po_id,supplier,order_date,promised_date,actual_date,days_late,on_time,qty_ordered,qty_received,status
+P00001,1,Gulf Grains Import Export FZE,2023-12-23,2024-01-07,2024-01-07,0,1,132,132,received
+P00002,2,Gulf Grains Import Export FZE,2023-12-25,2024-01-08,2024-01-08,0,1,152,144,received
+P00003,3,Eastern Spice & Oil Trading,2023-12-26,2024-01-05,2024-01-05,0,1,177,177,received
+P00004,4,Eastern Spice & Oil Trading,2023-12-16,2023-12-27,2023-12-26,-1,1,175,175,received
+P00005,5,National Sugar & Tea Traders,2023-12-09,2023-12-16,2023-12-16,0,1,114,114,received
+P00006,6,Al Safa Beverages Industries,2023-12-06,2023-12-12,2023-12-12,0,1,266,266,received
+P00007,7,Fresh Dairy Distribution Co,2023-12-08,2023-12-11,2023-12-11,0,1,78,78,received
+P00008,8,Pure Home Care Manufacturing,2023-12-26,2024-01-09,2024-01-09,0,1,226,226,received
+P00009,9,Pure Home Care Manufacturing,2023-12-05,2023-12-19,2023-12-19,0,1,245,245,received
+P00010,10,Paper Plus Packaging LLC,2023-12-14,2023-12-24,2023-12-29,5,0,254,254,received
+P00011,11,Orient Personal Care FZCO,2023-12-28,2024-01-14,2024-01-14,0,1,162,162,received
+P00012,12,Gulf Grains Import Export FZE,2024-01-18,2024-02-02,2024-02-02,0,1,117,117,received
+P00013,13,Gulf Grains Import Export FZE,2024-01-17,2024-01-31,2024-01-31,0,1,276,276,received
+P00014,14,Eastern Spice & Oil Trading,2024-01-24,2024-02-05,2024-02-05,0,1,204,195,received
+P00015,15,Eastern Spice & Oil Trading,2024-01-07,2024-01-18,2024-01-17,-1,1,278,278,received
+P00016,16,National Sugar & Tea Traders,2024-01-13,2024-01-20,2024-01-19,-1,1,135,135,received
+P00017,17,Al Safa Beverages Industries,2024-01-13,2024-01-18,2024-01-17,-1,1,149,149,received
+P00018,18,Al Safa Beverages Industries,2024-01-25,2024-01-31,2024-01-30,-1,1,200,200,received
+P00019,19,Fresh Dairy Distribution Co,2024-01-06,2024-01-10,2024-01-09,-1,1,41,41,received
+P00020,20,Fresh Dairy Distribution Co,2024-01-11,2024-01-16,2024-01-16,0,1,39,39,received
+P00021,21,Pure Home Care Manufacturing,2024-01-22,2024-02-03,2024-02-03,0,1,210,205,received
+P00022,22,Paper Plus Packaging LLC,2024-01-12,2024-01-21,2024-01-24,3,0,128,114,received
+P00023,23,Paper Plus Packaging LLC,2024-01-15,2024-01-24,2024-01-24,0,1,217,207,received
+P00024,24,Orient Personal Care FZCO,2024-01-15,2024-02-01,2024-01-31,-1,1,225,225,received
+P00025,25,Gulf Grains Import Export FZE,2024-02-20,2024-03-07,2024-03-07,0,1,280,280,received
+P00026,26,Eastern Spice & Oil Trading,2024-02-07,2024-02-18,2024-02-18,0,1,188,188,received
+P00027,27,National Sugar & Tea Traders,2024-02-18,2024-02-25,2024-02-25,0,1,92,92,received
+P00028,28,Al Safa Beverages Industries,2024-02-21,2024-02-28,2024-02-28,0,1,288,288,received
+P00029,29,Fresh Dairy Distribution Co,2024-02-15,2024-02-19,2024-02-19,0,1,91,91,received
+P00030,30,Pure Home Care Manufacturing,2024-02-17,2024-02-29,2024-03-03,3,0,259,259,received
+P00031,31,Paper Plus Packaging LLC,2024-02-14,2024-02-25,2024-03-01,5,0,135,119,received
+P00032,32,Orient Personal Care FZCO,2024-02-21,2024-03-08,2024-03-08,0,1,118,118,received
+P00033,33,Gulf Grains Import Export FZE,2024-03-02,2024-03-17,2024-03-16,-1,1,204,204,received
+P00034,34,Eastern Spice & Oil Trading,2024-03-24,2024-04-04,2024-04-03,-1,1,206,206,received
+P00035,35,Eastern Spice & Oil Trading,2024-03-23,2024-04-03,2024-04-03,0,1,217,217,received
+P00036,36,National Sugar & Tea Traders,2024-03-10,2024-03-17,2024-03-16,-1,1,198,198,received
+P00037,37,National Sugar & Tea Traders,2024-03-16,2024-03-25,2024-03-25,0,1,213,213,received
+P00038,38,Al Safa Beverages Industries,2024-03-23,2024-03-30,2024-03-30,0,1,236,236,received
+P00039,39,Al Safa Beverages Industries,2024-03-08,2024-03-15,2024-03-15,0,1,177,177,received
+P00040,40,Fresh Dairy Distribution Co,2024-03-01,2024-03-04,2024-03-03,-1,1,48,48,received
+P00041,41,Fresh Dairy Distribution Co,2024-03-04,2024-03-09,2024-03-09,0,1,40,40,received
+P00042,42,Pure Home Care Manufacturing,2024-03-26,2024-04-09,2024-04-09,0,1,164,164,received
+P00043,43,Paper Plus Packaging LLC,2024-03-13,2024-03-22,2024-03-22,0,1,168,168,received
+P00044,44,Paper Plus Packaging LLC,2024-03-16,2024-03-26,2024-03-26,0,1,154,154,received
+P00045,45,Orient Personal Care FZCO,2024-03-09,2024-03-24,2024-03-23,-1,1,202,202,received
+P00046,46,Gulf Grains Import Export FZE,2024-04-24,2024-05-09,2024-05-09,0,1,137,137,received
+P00047,47,Eastern Spice & Oil Trading,2024-04-22,2024-05-04,2024-05-04,0,1,195,195,received
+P00048,48,National Sugar & Tea Traders,2024-04-21,2024-04-30,2024-04-30,0,1,171,171,received
+P00049,49,Al Safa Beverages Industries,2024-04-19,2024-04-25,2024-04-25,0,1,147,147,received
+P00050,50,Al Safa Beverages Industries,2024-04-23,2024-04-28,2024-04-27,-1,1,240,224,received
+P00051,51,Fresh Dairy Distribution Co,2024-04-17,2024-04-21,2024-04-21,0,1,111,111,received
+P00052,52,Fresh Dairy Distribution Co,2024-04-01,2024-04-05,2024-04-05,0,1,122,122,received
+P00053,53,Pure Home Care Manufacturing,2024-04-21,2024-05-05,2024-05-05,0,1,145,145,received
+P00054,54,Paper Plus Packaging LLC,2024-04-02,2024-04-12,2024-04-14,2,0,224,212,received
+P00055,55,Orient Personal Care FZCO,2024-04-11,2024-04-27,2024-04-27,0,1,188,188,received
+P00056,56,Gulf Grains Import Export FZE,2024-05-15,2024-05-31,2024-06-05,5,0,164,164,received
+P00057,57,Eastern Spice & Oil Trading,2024-05-06,2024-05-16,2024-05-16,0,1,171,171,received
+P00058,58,National Sugar & Tea Traders,2024-05-15,2024-05-23,2024-05-23,0,1,232,232,received
+P00059,59,Al Safa Beverages Industries,2024-05-14,2024-05-20,2024-05-19,-1,1,268,268,received
+P00060,60,Al Safa Beverages Industries,2024-05-27,2024-06-03,2024-06-03,0,1,270,270,received
+P00061,61,Fresh Dairy Distribution Co,2024-05-18,2024-05-21,2024-05-21,0,1,59,59,received
+P00062,62,Fresh Dairy Distribution Co,2024-05-09,2024-05-14,2024-05-14,0,1,91,91,received
+P00063,63,Pure Home Care Manufacturing,2024-05-18,2024-06-01,2024-06-01,0,1,196,196,received
+P00064,64,Paper Plus Packaging LLC,2024-05-10,2024-05-19,2024-05-19,0,1,229,229,received
+P00065,65,Paper Plus Packaging LLC,2024-05-17,2024-05-28,2024-05-28,0,1,158,158,received
+P00066,66,Orient Personal Care FZCO,2024-05-22,2024-06-06,2024-06-10,4,0,202,202,received
+P00067,67,Gulf Grains Import Export FZE,2024-06-13,2024-06-27,2024-07-03,6,0,111,111,received
+P00068,68,Eastern Spice & Oil Trading,2024-06-24,2024-07-04,2024-07-03,-1,1,155,155,received
+P00069,69,National Sugar & Tea Traders,2024-06-20,2024-06-27,2024-06-27,0,1,119,119,received
+P00070,70,Al Safa Beverages Industries,2024-06-25,2024-07-01,2024-07-01,0,1,233,233,received
+P00071,71,Fresh Dairy Distribution Co,2024-06-09,2024-06-12,2024-06-15,3,0,66,66,received
+P00072,72,Fresh Dairy Distribution Co,2024-06-17,2024-06-20,2024-06-19,-1,1,53,53,received
+P00073,73,Pure Home Care Manufacturing,2024-06-25,2024-07-09,2024-07-09,0,1,213,213,received
+P00074,74,Paper Plus Packaging LLC,2024-06-23,2024-07-02,2024-07-10,8,0,347,347,received
+P00075,75,Orient Personal Care FZCO,2024-06-02,2024-06-19,2024-06-19,0,1,200,200,received
+P00076,76,Gulf Grains Import Export FZE,2024-07-21,2024-08-06,2024-08-06,0,1,228,228,received
+P00077,77,Eastern Spice & Oil Trading,2024-07-26,2024-08-06,2024-08-06,0,1,231,231,received
+P00078,78,National Sugar & Tea Traders,2024-07-07,2024-07-15,2024-07-15,0,1,191,191,received
+P00079,79,Al Safa Beverages Industries,2024-07-19,2024-07-26,2024-07-26,0,1,162,162,received
+P00080,80,Fresh Dairy Distribution Co,2024-07-09,2024-07-13,2024-07-13,0,1,126,126,received
+P00081,81,Pure Home Care Manufacturing,2024-07-26,2024-08-09,2024-08-09,0,1,141,141,received
+P00082,82,Pure Home Care Manufacturing,2024-07-14,2024-07-28,2024-08-02,5,0,154,141,received
+P00083,83,Paper Plus Packaging LLC,2024-07-17,2024-07-27,2024-07-27,0,1,197,197,received
+P00084,84,Orient Personal Care FZCO,2024-07-28,2024-08-14,2024-08-14,0,1,333,333,received
+P00085,85,Gulf Grains Import Export FZE,2024-08-15,2024-08-30,2024-08-30,0,1,263,263,received
+P00086,86,Gulf Grains Import Export FZE,2024-08-26,2024-09-11,2024-09-11,0,1,121,107,received
+P00087,87,Eastern Spice & Oil Trading,2024-08-14,2024-08-26,2024-08-26,0,1,229,229,received
+P00088,88,National Sugar & Tea Traders,2024-08-19,2024-08-28,2024-08-28,0,1,114,114,received
+P00089,89,Al Safa Beverages Industries,2024-08-24,2024-08-31,2024-08-30,-1,1,144,144,received
+P00090,90,Fresh Dairy Distribution Co,2024-08-23,2024-08-27,2024-08-26,-1,1,67,67,received
+P00091,91,Pure Home Care Manufacturing,2024-08-12,2024-08-24,2024-08-24,0,1,212,212,received
+P00092,92,Paper Plus Packaging LLC,2024-08-21,2024-08-30,2024-09-10,11,0,250,250,received
+P00093,93,Paper Plus Packaging LLC,2024-08-28,2024-09-07,2024-09-07,0,1,138,133,received
+P00094,94,Orient Personal Care FZCO,2024-08-20,2024-09-06,2024-09-08,2,0,308,294,received
+P00095,95,Orient Personal Care FZCO,2024-08-15,2024-08-31,2024-08-31,0,1,100,100,received
+P00096,96,Gulf Grains Import Export FZE,2024-09-20,2024-10-05,2024-10-05,0,1,181,181,received
+P00097,97,Eastern Spice & Oil Trading,2024-09-26,2024-10-07,2024-10-07,0,1,300,300,received
+P00098,98,National Sugar & Tea Traders,2024-09-05,2024-09-12,2024-09-12,0,1,355,355,received
+P00099,99,Al Safa Beverages Industries,2024-09-12,2024-09-19,2024-09-19,0,1,205,205,received
+P00100,100,Fresh Dairy Distribution Co,2024-09-11,2024-09-14,2024-09-14,0,1,68,68,received
+P00101,101,Pure Home Care Manufacturing,2024-09-23,2024-10-06,2024-10-06,0,1,202,202,received
+P00102,102,Paper Plus Packaging LLC,2024-09-08,2024-09-17,2024-09-16,-1,1,217,217,received
+P00103,103,Paper Plus Packaging LLC,2024-09-13,2024-09-22,2024-10-02,10,0,137,137,received
+P00104,104,Orient Personal Care FZCO,2024-09-08,2024-09-25,2024-09-24,-1,1,151,151,received
+P00105,105,Gulf Grains Import Export FZE,2024-10-05,2024-10-20,2024-10-20,0,1,319,319,received
+P00106,106,Eastern Spice & Oil Trading,2024-10-15,2024-10-25,2024-10-24,-1,1,228,228,received
+P00107,107,Eastern Spice & Oil Trading,2024-10-03,2024-10-14,2024-10-14,0,1,326,326,received
+P00108,108,National Sugar & Tea Traders,2024-10-21,2024-10-28,2024-10-28,0,1,164,164,received
+P00109,109,Al Safa Beverages Industries,2024-10-13,2024-10-19,2024-10-18,-1,1,214,214,received
+P00110,110,Fresh Dairy Distribution Co,2024-10-16,2024-10-20,2024-10-20,0,1,85,85,received
+P00111,111,Pure Home Care Manufacturing,2024-10-13,2024-10-26,2024-10-26,0,1,162,143,received
+P00112,112,Paper Plus Packaging LLC,2024-10-23,2024-11-01,2024-11-01,0,1,137,137,received
+P00113,113,Orient Personal Care FZCO,2024-10-02,2024-10-17,2024-10-17,0,1,260,260,received
+P00114,114,Gulf Grains Import Export FZE,2024-11-13,2024-11-27,2024-11-29,2,0,107,107,received
+P00115,115,Eastern Spice & Oil Trading,2024-11-05,2024-11-15,2024-11-14,-1,1,286,286,received
+P00116,116,National Sugar & Tea Traders,2024-11-02,2024-11-10,2024-11-10,0,1,157,157,received
+P00117,117,National Sugar & Tea Traders,2024-11-13,2024-11-20,2024-11-20,0,1,178,178,received
+P00118,118,Al Safa Beverages Industries,2024-11-27,2024-12-04,2024-12-03,-1,1,149,149,received
+P00119,119,Fresh Dairy Distribution Co,2024-11-28,2024-12-01,2024-12-01,0,1,117,117,received
+P00120,120,Pure Home Care Manufacturing,2024-11-14,2024-11-26,2024-11-26,0,1,217,217,received
+P00121,121,Pure Home Care Manufacturing,2024-11-16,2024-11-29,2024-12-05,6,0,219,219,received
+P00122,122,Paper Plus Packaging LLC,2024-11-08,2024-11-19,2024-11-27,8,0,143,133,received
+P00123,123,Orient Personal Care FZCO,2024-11-13,2024-11-29,2024-11-29,0,1,300,300,received
+P00124,124,Gulf Grains Import Export FZE,2024-12-26,2025-01-11,2025-01-11,0,1,226,226,received
+P00125,125,Gulf Grains Import Export FZE,2024-12-06,2024-12-22,2024-12-22,0,1,332,332,received
+P00126,126,Eastern Spice & Oil Trading,2024-12-25,2025-01-04,2025-01-03,-1,1,393,393,received
+P00127,127,National Sugar & Tea Traders,2024-12-14,2024-12-22,2024-12-21,-1,1,214,214,received
+P00128,128,Al Safa Beverages Industries,2024-12-02,2024-12-07,2024-12-07,0,1,294,294,received
+P00129,129,Fresh Dairy Distribution Co,2024-12-03,2024-12-08,2024-12-08,0,1,52,52,received
+P00130,130,Pure Home Care Manufacturing,2024-12-15,2024-12-29,2024-12-29,0,1,160,160,received
+P00131,131,Pure Home Care Manufacturing,2024-12-04,2024-12-18,2024-12-18,0,1,144,144,received
+P00132,132,Paper Plus Packaging LLC,2024-12-25,2025-01-03,2025-01-03,0,1,193,193,received
+P00133,133,Paper Plus Packaging LLC,2024-12-23,2025-01-01,2025-01-01,0,1,156,144,received
+P00134,134,Orient Personal Care FZCO,2024-12-25,2025-01-09,2025-01-08,-1,1,241,241,received
+P00135,135,Gulf Grains Import Export FZE,2025-01-09,2025-01-24,2025-01-24,0,1,287,287,received
+P00136,136,Eastern Spice & Oil Trading,2025-01-25,2025-02-05,2025-02-05,0,1,163,163,received
+P00137,137,National Sugar & Tea Traders,2025-01-11,2025-01-18,2025-01-18,0,1,158,158,received
+P00138,138,Al Safa Beverages Industries,2025-01-02,2025-01-09,2025-01-08,-1,1,201,201,received
+P00139,139,Fresh Dairy Distribution Co,2025-01-05,2025-01-09,2025-01-09,0,1,122,122,received
+P00140,140,Fresh Dairy Distribution Co,2025-01-27,2025-01-30,2025-01-30,0,1,82,82,received
+P00141,141,Pure Home Care Manufacturing,2025-01-26,2025-02-08,2025-02-07,-1,1,217,217,received
+P00142,142,Paper Plus Packaging LLC,2025-01-05,2025-01-16,2025-01-16,0,1,142,142,received
+P00143,143,Orient Personal Care FZCO,2025-01-25,2025-02-10,2025-02-10,0,1,157,157,received
+P00144,144,Gulf Grains Import Export FZE,2025-02-20,2025-03-07,2025-03-11,4,0,305,305,received
+P00145,145,Eastern Spice & Oil Trading,2025-02-25,2025-03-09,2025-03-08,-1,1,153,153,received
+P00146,146,National Sugar & Tea Traders,2025-02-06,2025-02-13,2025-02-13,0,1,200,200,received
+P00147,147,National Sugar & Tea Traders,2025-02-03,2025-02-10,2025-02-10,0,1,266,266,received
+P00148,148,Al Safa Beverages Industries,2025-02-18,2025-02-25,2025-02-25,0,1,219,219,received
+P00149,149,Fresh Dairy Distribution Co,2025-02-07,2025-02-11,2025-02-11,0,1,100,100,received
+P00150,150,Pure Home Care Manufacturing,2025-02-21,2025-03-05,2025-03-05,0,1,208,208,received
+P00151,151,Paper Plus Packaging LLC,2025-02-02,2025-02-12,2025-02-18,6,0,247,214,received
+P00152,152,Orient Personal Care FZCO,2025-02-13,2025-02-28,2025-02-28,0,1,163,163,received
+P00153,153,Gulf Grains Import Export FZE,2025-03-13,2025-03-27,2025-03-29,2,0,190,190,received
+P00154,154,Eastern Spice & Oil Trading,2025-03-07,2025-03-17,2025-03-17,0,1,324,324,received
+P00155,155,National Sugar & Tea Traders,2025-03-15,2025-03-23,2025-03-23,0,1,239,239,received
+P00156,156,Al Safa Beverages Industries,2025-03-10,2025-03-16,2025-03-17,1,0,273,273,received
+P00157,157,Al Safa Beverages Industries,2025-03-25,2025-03-31,2025-04-05,5,0,219,219,received
+P00158,158,Fresh Dairy Distribution Co,2025-03-10,2025-03-15,2025-03-15,0,1,56,56,received
+P00159,159,Pure Home Care Manufacturing,2025-03-19,2025-04-02,2025-04-02,0,1,233,233,received
+P00160,160,Paper Plus Packaging LLC,2025-03-03,2025-03-13,2025-03-14,1,0,162,162,received
+P00161,161,Orient Personal Care FZCO,2025-03-03,2025-03-19,2025-03-18,-1,1,261,261,received
+P00162,162,Gulf Grains Import Export FZE,2025-04-23,2025-05-07,2025-05-07,0,1,187,187,received
+P00163,163,Eastern Spice & Oil Trading,2025-04-04,2025-04-16,2025-04-16,0,1,273,273,received
+P00164,164,Eastern Spice & Oil Trading,2025-04-22,2025-05-02,2025-05-02,0,1,309,309,received
+P00165,165,National Sugar & Tea Traders,2025-04-02,2025-04-11,2025-04-11,0,1,250,250,received
+P00166,166,National Sugar & Tea Traders,2025-04-26,2025-05-04,2025-05-04,0,1,246,246,received
+P00167,167,Al Safa Beverages Industries,2025-04-07,2025-04-14,2025-04-14,0,1,295,295,received
+P00168,168,Fresh Dairy Distribution Co,2025-04-11,2025-04-14,2025-04-14,0,1,81,81,received
+P00169,169,Pure Home Care Manufacturing,2025-04-11,2025-04-23,2025-04-23,0,1,315,315,received
+P00170,170,Paper Plus Packaging LLC,2025-04-11,2025-04-20,2025-04-30,10,0,293,293,received
+P00171,171,Orient Personal Care FZCO,2025-04-21,2025-05-08,2025-05-08,0,1,213,213,received
+P00172,172,Gulf Grains Import Export FZE,2025-05-02,2025-05-18,2025-05-18,0,1,206,206,received
+P00173,173,Eastern Spice & Oil Trading,2025-05-21,2025-06-02,2025-06-02,0,1,284,284,received
+P00174,174,National Sugar & Tea Traders,2025-05-22,2025-05-30,2025-05-30,0,1,125,125,received
+P00175,175,Al Safa Beverages Industries,2025-05-05,2025-05-10,2025-05-10,0,1,241,241,received
+P00176,176,Al Safa Beverages Industries,2025-05-13,2025-05-20,2025-05-19,-1,1,213,213,received
+P00177,177,Fresh Dairy Distribution Co,2025-05-17,2025-05-22,2025-05-21,-1,1,139,139,received
+P00178,178,Pure Home Care Manufacturing,2025-05-21,2025-06-03,2025-06-03,0,1,249,249,received
+P00179,179,Paper Plus Packaging LLC,2025-05-02,2025-05-13,2025-05-13,0,1,199,199,received
+P00180,180,Orient Personal Care FZCO,2025-05-08,2025-05-23,2025-05-23,0,1,211,211,received
+P00181,181,Gulf Grains Import Export FZE,2025-06-27,2025-07-11,2025-07-10,-1,1,207,207,received
+P00182,182,Eastern Spice & Oil Trading,2025-06-13,2025-06-25,2025-06-27,2,0,280,280,received
+P00183,183,National Sugar & Tea Traders,2025-06-16,2025-06-24,2025-06-24,0,1,135,135,received
+P00184,184,Al Safa Beverages Industries,2025-06-17,2025-06-22,2025-06-22,0,1,221,221,received
+P00185,185,Al Safa Beverages Industries,2025-06-11,2025-06-16,2025-06-15,-1,1,402,402,received
+P00186,186,Fresh Dairy Distribution Co,2025-06-03,2025-06-08,2025-06-08,0,1,103,103,received
+P00187,187,Pure Home Care Manufacturing,2025-06-11,2025-06-24,2025-06-23,-1,1,301,301,received
+P00188,188,Paper Plus Packaging LLC,2025-06-19,2025-06-30,2025-06-30,0,1,289,289,received
+P00189,189,Paper Plus Packaging LLC,2025-06-08,2025-06-17,2025-06-17,0,1,195,195,received
+P00190,190,Orient Personal Care FZCO,2025-06-18,2025-07-05,2025-07-04,-1,1,150,150,received
+P00191,191,Gulf Grains Import Export FZE,2025-07-15,2025-07-29,2025-07-29,0,1,168,168,received
+P00192,192,Eastern Spice & Oil Trading,2025-07-04,2025-07-15,2025-07-15,0,1,350,350,received
+P00193,193,National Sugar & Tea Traders,2025-07-21,2025-07-29,2025-07-29,0,1,371,371,received
+P00194,194,Al Safa Beverages Industries,2025-07-04,2025-07-11,2025-07-11,0,1,194,194,received
+P00195,195,Fresh Dairy Distribution Co,2025-07-13,2025-07-16,2025-07-16,0,1,41,41,received
+P00196,196,Pure Home Care Manufacturing,2025-07-05,2025-07-17,2025-07-17,0,1,259,259,received
+P00197,197,Pure Home Care Manufacturing,2025-07-08,2025-07-22,2025-07-24,2,0,337,337,received
+P00198,198,Paper Plus Packaging LLC,2025-07-08,2025-07-17,2025-07-16,-1,1,226,226,received
+P00199,199,Orient Personal Care FZCO,2025-07-23,2025-08-07,2025-08-07,0,1,141,141,received
+P00200,200,Orient Personal Care FZCO,2025-07-06,2025-07-22,2025-07-21,-1,1,237,237,received
+P00201,201,Gulf Grains Import Export FZE,2025-08-09,2025-08-23,2025-08-23,0,1,170,170,received
+P00202,202,Eastern Spice & Oil Trading,2025-08-13,2025-08-24,2025-08-24,0,1,139,139,received
+P00203,203,National Sugar & Tea Traders,2025-08-17,2025-08-26,2025-08-26,0,1,125,125,received
+P00204,204,National Sugar & Tea Traders,2025-08-18,2025-08-25,2025-08-24,-1,1,157,157,received
+P00205,205,Al Safa Beverages Industries,2025-08-12,2025-08-18,2025-08-18,0,1,299,299,received
+P00206,206,Fresh Dairy Distribution Co,2025-08-15,2025-08-20,2025-08-19,-1,1,139,139,received
+P00207,207,Pure Home Care Manufacturing,2025-08-20,2025-09-03,2025-09-03,0,1,329,329,received
+P00208,208,Paper Plus Packaging LLC,2025-08-08,2025-08-17,2025-08-16,-1,1,196,196,received
+P00209,209,Paper Plus Packaging LLC,2025-08-24,2025-09-04,2025-09-04,0,1,208,182,received
+P00210,210,Orient Personal Care FZCO,2025-08-21,2025-09-05,2025-09-09,4,0,261,261,received
+P00211,211,Gulf Grains Import Export FZE,2025-09-26,2025-10-11,2025-10-11,0,1,141,141,received
+P00212,212,Gulf Grains Import Export FZE,2025-09-08,2025-09-23,2025-09-23,0,1,235,235,received
+P00213,213,Eastern Spice & Oil Trading,2025-09-21,2025-10-03,2025-10-02,-1,1,165,165,received
+P00214,214,National Sugar & Tea Traders,2025-09-06,2025-09-13,2025-09-13,0,1,150,150,received
+P00215,215,Al Safa Beverages Industries,2025-09-10,2025-09-16,2025-09-19,3,0,187,187,received
+P00216,216,Fresh Dairy Distribution Co,2025-09-05,2025-09-10,2025-09-10,0,1,75,75,received
+P00217,217,Fresh Dairy Distribution Co,2025-09-21,2025-09-24,2025-09-23,-1,1,86,86,received
+P00218,218,Pure Home Care Manufacturing,2025-09-18,2025-09-30,2025-09-30,0,1,338,297,received
+P00219,219,Paper Plus Packaging LLC,2025-09-21,2025-09-30,2025-09-30,0,1,365,365,received
+P00220,220,Paper Plus Packaging LLC,2025-09-20,2025-10-01,2025-10-07,6,0,257,221,received
+P00221,221,Orient Personal Care FZCO,2025-09-11,2025-09-28,2025-09-28,0,1,349,349,received
+P00222,222,Gulf Grains Import Export FZE,2025-10-10,2025-10-26,2025-10-25,-1,1,282,282,received
+P00223,223,Eastern Spice & Oil Trading,2025-10-12,2025-10-22,2025-10-22,0,1,206,206,received
+P00224,224,Eastern Spice & Oil Trading,2025-10-14,2025-10-26,2025-10-26,0,1,171,171,received
+P00225,225,National Sugar & Tea Traders,2025-10-26,2025-11-02,2025-11-02,0,1,217,217,received
+P00226,226,Al Safa Beverages Industries,2025-10-13,2025-10-20,2025-10-20,0,1,194,194,received
+P00227,227,Al Safa Beverages Industries,2025-10-12,2025-10-19,2025-10-18,-1,1,328,328,received
+P00228,228,Fresh Dairy Distribution Co,2025-10-21,2025-10-25,2025-10-25,0,1,109,109,received
+P00229,229,Pure Home Care Manufacturing,2025-10-16,2025-10-29,2025-10-29,0,1,301,301,received
+P00230,230,Pure Home Care Manufacturing,2025-10-27,2025-11-08,2025-11-07,-1,1,221,207,received
+P00231,231,Paper Plus Packaging LLC,2025-10-02,2025-10-11,2025-10-11,0,1,228,228,received
+P00232,232,Paper Plus Packaging LLC,2025-10-19,2025-10-30,2025-11-11,12,0,212,212,received
+P00233,233,Orient Personal Care FZCO,2025-10-11,2025-10-27,2025-10-27,0,1,342,342,received
+P00234,234,Gulf Grains Import Export FZE,2025-11-11,2025-11-25,2025-11-25,0,1,308,308,received
+P00235,235,Eastern Spice & Oil Trading,2025-11-07,2025-11-18,2025-11-18,0,1,277,277,received
+P00236,236,National Sugar & Tea Traders,2025-11-04,2025-11-13,2025-11-12,-1,1,200,200,received
+P00237,237,Al Safa Beverages Industries,2025-11-19,2025-11-24,2025-11-24,0,1,319,319,received
+P00238,238,Al Safa Beverages Industries,2025-11-10,2025-11-17,2025-11-17,0,1,286,286,received
+P00239,239,Fresh Dairy Distribution Co,2025-11-21,2025-11-25,2025-11-25,0,1,76,76,received
+P00240,240,Pure Home Care Manufacturing,2025-11-26,2025-12-10,2025-12-14,4,0,168,168,received
+P00241,241,Paper Plus Packaging LLC,2025-11-24,2025-12-05,2025-12-05,0,1,185,185,received
+P00242,242,Orient Personal Care FZCO,2025-11-02,2025-11-17,2025-11-17,0,1,98,98,received
+P00243,243,Gulf Grains Import Export FZE,2025-12-25,2026-01-09,2026-01-08,-1,1,388,388,received
+P00244,244,Gulf Grains Import Export FZE,2025-12-04,2025-12-18,2025-12-18,0,1,295,295,received
+P00245,245,Eastern Spice & Oil Trading,2025-12-28,2026-01-08,2026-01-08,0,1,239,239,received
+P00246,246,Eastern Spice & Oil Trading,2025-12-26,2026-01-07,2026-01-07,0,1,244,232,received
+P00247,247,National Sugar & Tea Traders,2025-12-15,2025-12-23,2025-12-22,-1,1,319,319,received
+P00248,248,Al Safa Beverages Industries,2025-12-27,2026-01-02,2026-01-02,0,1,370,370,received
+P00249,249,Fresh Dairy Distribution Co,2025-12-18,2025-12-22,2025-12-22,0,1,135,135,received
+P00250,250,Pure Home Care Manufacturing,2025-12-18,2026-01-01,2026-01-01,0,1,157,157,received
+P00251,251,Pure Home Care Manufacturing,2025-12-18,2026-01-01,2025-12-31,-1,1,300,264,received
+P00252,252,Paper Plus Packaging LLC,2025-12-17,2025-12-28,2026-01-08,11,0,477,418,received
+P00253,253,Orient Personal Care FZCO,2025-12-15,2026-01-01,2026-01-01,0,1,207,207,received
+P00254,254,Orient Personal Care FZCO,2025-12-20,2026-01-04,2026-01-10,6,0,246,246,received
+P00255,255,Gulf Grains Import Export FZE,2026-01-24,2026-02-07,2026-02-12,5,0,202,202,received
+P00256,256,Eastern Spice & Oil Trading,2026-01-25,2026-02-04,2026-02-03,-1,1,297,297,received
+P00257,257,National Sugar & Tea Traders,2026-01-16,2026-01-23,2026-01-23,0,1,278,278,received
+P00258,258,Al Safa Beverages Industries,2026-01-02,2026-01-08,2026-01-08,0,1,357,357,received
+P00259,259,Fresh Dairy Distribution Co,2026-01-09,2026-01-12,2026-01-12,0,1,146,146,received
+P00260,260,Fresh Dairy Distribution Co,2026-01-09,2026-01-14,2026-01-14,0,1,92,92,received
+P00261,261,Pure Home Care Manufacturing,2026-01-09,2026-01-21,2026-01-21,0,1,268,262,received
+P00262,262,Paper Plus Packaging LLC,2026-01-25,2026-02-05,2026-02-06,1,0,231,231,received
+P00263,263,Orient Personal Care FZCO,2026-01-08,2026-01-24,2026-01-24,0,1,265,265,received
+P00264,264,Gulf Grains Import Export FZE,2026-02-12,2026-02-26,2026-02-25,-1,1,205,205,received
+P00265,265,Eastern Spice & Oil Trading,2026-02-21,2026-03-05,2026-03-05,0,1,204,204,received
+P00266,266,National Sugar & Tea Traders,2026-02-02,2026-02-11,2026-02-11,0,1,260,260,received
+P00267,267,Al Safa Beverages Industries,2026-02-05,2026-02-11,2026-02-12,1,0,199,199,received
+P00268,268,Fresh Dairy Distribution Co,2026-02-08,2026-02-12,2026-02-12,0,1,161,161,received
+P00269,269,Pure Home Care Manufacturing,2026-02-22,2026-03-06,2026-03-05,-1,1,389,389,received
+P00270,270,Paper Plus Packaging LLC,2026-02-10,2026-02-20,2026-02-26,6,0,244,244,received
+P00271,271,Orient Personal Care FZCO,2026-02-11,2026-02-27,2026-02-27,0,1,308,308,received
+P00272,272,Gulf Grains Import Export FZE,2026-03-21,2026-04-04,2026-04-04,0,1,209,209,received
+P00273,273,Eastern Spice & Oil Trading,2026-03-18,2026-03-29,2026-03-28,-1,1,264,252,received
+P00274,274,National Sugar & Tea Traders,2026-03-16,2026-03-24,2026-03-23,-1,1,290,290,received
+P00275,275,National Sugar & Tea Traders,2026-03-26,2026-04-04,2026-04-04,0,1,317,317,received
+P00276,276,Al Safa Beverages Industries,2026-03-02,2026-03-08,2026-03-09,1,0,310,310,received
+P00277,277,Al Safa Beverages Industries,2026-03-12,2026-03-17,2026-03-17,0,1,291,291,received
+P00278,278,Fresh Dairy Distribution Co,2026-03-11,2026-03-15,2026-03-14,-1,1,109,109,received
+P00279,279,Pure Home Care Manufacturing,2026-03-19,2026-03-31,2026-03-31,0,1,272,246,received
+P00280,280,Pure Home Care Manufacturing,2026-03-18,2026-04-01,2026-04-02,1,0,228,208,received
+P00281,281,Paper Plus Packaging LLC,2026-03-24,2026-04-03,2026-04-11,8,0,231,198,received
+P00282,282,Orient Personal Care FZCO,2026-03-14,2026-03-29,2026-03-29,0,1,206,206,received
+P00283,283,Gulf Grains Import Export FZE,2026-04-14,2026-04-29,2026-04-29,0,1,201,201,received
+P00284,284,Eastern Spice & Oil Trading,2026-04-23,2026-05-04,2026-05-03,-1,1,167,167,received
+P00285,285,Eastern Spice & Oil Trading,2026-04-15,2026-04-27,2026-04-27,0,1,144,144,received
+P00286,286,National Sugar & Tea Traders,2026-04-02,2026-04-09,2026-04-08,-1,1,342,342,received
+P00287,287,National Sugar & Tea Traders,2026-04-07,2026-04-14,2026-04-14,0,1,166,166,received
+P00288,288,Al Safa Beverages Industries,2026-04-13,2026-04-18,2026-04-18,0,1,237,237,received
+P00289,289,Fresh Dairy Distribution Co,2026-04-26,2026-05-01,2026-05-01,0,1,91,91,received
+P00290,290,Pure Home Care Manufacturing,2026-04-06,2026-04-20,2026-04-20,0,1,204,204,received
+P00291,291,Paper Plus Packaging LLC,2026-04-28,2026-05-08,2026-05-08,0,1,133,133,received
+P00292,292,Orient Personal Care FZCO,2026-04-26,2026-05-12,2026-05-12,0,1,295,295,received
+P00293,293,Gulf Grains Import Export FZE,2026-05-09,2026-05-23,2026-05-22,-1,1,391,391,received
+P00294,294,Gulf Grains Import Export FZE,2026-05-27,2026-06-12,2026-06-12,0,1,270,270,received
+P00295,295,Eastern Spice & Oil Trading,2026-05-18,2026-05-30,2026-05-30,0,1,156,156,received
+P00296,296,Eastern Spice & Oil Trading,2026-05-23,2026-06-03,2026-06-03,0,1,237,237,received
+P00297,297,National Sugar & Tea Traders,2026-05-14,2026-05-23,2026-05-23,0,1,288,288,received
+P00298,298,Al Safa Beverages Industries,2026-05-27,2026-06-02,2026-06-01,-1,1,280,280,received
+P00299,299,Fresh Dairy Distribution Co,2026-05-28,2026-06-02,2026-06-02,0,1,121,121,received
+P00300,300,Fresh Dairy Distribution Co,2026-05-04,2026-05-08,2026-05-08,0,1,61,61,received
+P00301,301,Pure Home Care Manufacturing,2026-05-05,2026-05-17,2026-05-17,0,1,366,351,received
+P00302,302,Paper Plus Packaging LLC,2026-05-24,2026-06-02,2026-06-02,0,1,474,474,received
+P00303,303,Orient Personal Care FZCO,2026-05-01,2026-05-18,2026-05-18,0,1,198,198,received
+P00304,304,Orient Personal Care FZCO,2026-05-05,2026-05-22,2026-05-22,0,1,336,336,received
+P00305,305,Gulf Grains Import Export FZE,2026-06-11,2026-06-26,2026-06-26,0,1,244,244,received
+P00306,306,Eastern Spice & Oil Trading,2026-06-10,2026-06-22,2026-06-22,0,1,243,243,received
+P00307,307,National Sugar & Tea Traders,2026-06-27,2026-07-05,2026-07-05,0,1,419,399,received
+P00308,308,Al Safa Beverages Industries,2026-06-15,2026-06-21,2026-06-26,5,0,202,202,received
+P00309,309,Fresh Dairy Distribution Co,2026-06-28,2026-07-02,2026-07-06,4,0,86,86,received
+P00310,310,Pure Home Care Manufacturing,2026-06-17,2026-07-01,2026-07-01,0,1,197,197,received
+P00311,311,Paper Plus Packaging LLC,2026-06-16,2026-06-25,2026-06-24,-1,1,333,333,received
+P00312,312,Paper Plus Packaging LLC,2026-06-14,2026-06-24,2026-07-01,7,0,303,293,received
+P00313,313,Orient Personal Care FZCO,2026-06-28,2026-07-15,2026-07-15,0,1,358,358,received
+P00314,314,Gulf Grains Import Export FZE,2026-07-21,2026-08-06,2026-08-06,0,1,160,160,received
+P00315,315,Eastern Spice & Oil Trading,2026-07-03,2026-07-13,2026-07-13,0,1,239,239,received
+P00316,316,National Sugar & Tea Traders,2026-07-25,2026-08-01,2026-08-01,0,1,300,300,received
+P00317,317,Al Safa Beverages Industries,2026-07-23,2026-07-29,2026-07-29,0,1,366,366,received
+P00318,318,Fresh Dairy Distribution Co,2026-07-04,2026-07-07,2026-07-06,-1,1,162,162,received
+P00319,319,Fresh Dairy Distribution Co,2026-07-23,2026-07-27,2026-07-27,0,1,87,87,received
+P00320,320,Pure Home Care Manufacturing,2026-07-22,2026-08-04,2026-08-03,-1,1,291,291,received
+P00321,321,Paper Plus Packaging LLC,2026-07-09,2026-07-18,2026-07-17,-1,1,284,284,received
+P00322,322,Paper Plus Packaging LLC,2026-07-10,2026-07-20,2026-07-24,4,0,322,322,received
+P00323,323,Orient Personal Care FZCO,2026-07-09,2026-07-24,2026-07-24,0,1,348,348,received
+P00324,324,Orient Personal Care FZCO,2026-07-14,2026-07-30,2026-07-29,-1,1,269,269,received
+P00325,325,Gulf Grains Import Export FZE,2026-08-13,2026-08-29,2026-09-01,3,0,287,287,received
+P00326,326,Eastern Spice & Oil Trading,2026-08-25,2026-09-06,2026-09-06,0,1,215,215,received
+P00327,327,Eastern Spice & Oil Trading,2026-08-02,2026-08-13,2026-08-14,1,0,386,386,received
+P00328,328,National Sugar & Tea Traders,2026-08-19,2026-08-27,2026-08-27,0,1,275,275,received
+P00329,329,Al Safa Beverages Industries,2026-08-23,2026-08-29,2026-08-29,0,1,170,170,received
+P00330,330,Al Safa Beverages Industries,2026-08-09,2026-08-16,2026-08-16,0,1,236,227,received
+P00331,331,Fresh Dairy Distribution Co,2026-08-22,2026-08-27,2026-08-27,0,1,162,162,received
+P00332,332,Pure Home Care Manufacturing,2026-08-08,2026-08-20,2026-08-24,4,0,126,126,received
+P00333,333,Paper Plus Packaging LLC,2026-08-16,2026-08-27,2026-08-27,0,1,222,222,received
+P00334,334,Orient Personal Care FZCO,2026-08-15,2026-08-31,2026-08-31,0,1,172,172,received
+P00335,335,Gulf Grains Import Export FZE,2026-09-03,2026-09-19,2026-09-18,-1,1,252,252,received
+P00336,336,Gulf Grains Import Export FZE,2026-09-16,2026-10-01,2026-10-01,0,1,261,261,received
+P00337,337,Eastern Spice & Oil Trading,2026-09-10,2026-09-20,2026-09-20,0,1,296,296,received
+P00338,338,National Sugar & Tea Traders,2026-09-01,2026-09-09,2026-09-09,0,1,393,393,received
+P00339,339,Al Safa Beverages Industries,2026-09-25,2026-10-02,2026-10-02,0,1,322,322,received
+P00340,340,Fresh Dairy Distribution Co,2026-09-18,2026-09-21,2026-09-21,0,1,116,116,received
+P00341,341,Fresh Dairy Distribution Co,2026-09-20,2026-09-24,2026-09-24,0,1,156,156,received
+P00342,342,Pure Home Care Manufacturing,2026-09-10,2026-09-23,2026-09-25,2,0,454,454,received
+P00343,343,Paper Plus Packaging LLC,2026-09-08,2026-09-18,2026-09-18,0,1,315,315,received
+P00344,344,Paper Plus Packaging LLC,2026-09-10,2026-09-20,2026-09-20,0,1,311,311,received
+P00345,345,Orient Personal Care FZCO,2026-09-16,2026-10-01,2026-10-01,0,1,203,193,received
+P00346,346,Orient Personal Care FZCO,2026-09-20,2026-10-07,2026-10-07,0,1,280,280,received
+P00347,347,Gulf Grains Import Export FZE,2026-10-26,2026-11-09,2026-11-09,0,1,251,251,received
+P00348,348,Gulf Grains Import Export FZE,2026-10-18,2026-11-02,2026-11-02,0,1,271,271,received
+P00349,349,Eastern Spice & Oil Trading,2026-10-11,2026-10-22,2026-10-22,0,1,101,101,received
+P00350,350,National Sugar & Tea Traders,2026-10-05,2026-10-13,2026-10-19,6,0,258,258,received
+P00351,351,Al Safa Beverages Industries,2026-10-03,2026-10-08,2026-10-08,0,1,232,232,received
+P00352,352,Fresh Dairy Distribution Co,2026-10-25,2026-10-28,2026-10-27,-1,1,90,90,received
+P00353,353,Fresh Dairy Distribution Co,2026-10-19,2026-10-24,2026-10-24,0,1,75,75,received
+P00354,354,Pure Home Care Manufacturing,2026-10-04,2026-10-18,2026-10-18,0,1,124,124,received
+P00355,355,Pure Home Care Manufacturing,2026-10-24,2026-11-05,2026-11-05,0,1,240,240,received
+P00356,356,Paper Plus Packaging LLC,2026-10-25,2026-11-05,2026-11-08,3,0,194,194,received
+P00357,357,Orient Personal Care FZCO,2026-10-24,2026-11-08,2026-11-07,-1,1,184,172,received
+P00358,358,Orient Personal Care FZCO,2026-10-13,2026-10-29,2026-10-29,0,1,434,434,received
+P00359,359,Gulf Grains Import Export FZE,2026-11-14,2026-11-28,,,,289,,open
+P00360,360,Eastern Spice & Oil Trading,2026-11-07,2026-11-19,2026-11-19,0,1,196,196,received
+P00361,361,National Sugar & Tea Traders,2026-11-01,2026-11-10,2026-11-10,0,1,390,390,received
+P00362,362,Al Safa Beverages Industries,2026-11-22,2026-11-28,,,,130,,open
+P00363,363,Fresh Dairy Distribution Co,2026-11-13,2026-11-16,2026-11-16,0,1,112,112,received
+P00364,364,Fresh Dairy Distribution Co,2026-11-17,2026-11-21,2026-11-20,-1,1,170,170,received
+P00365,365,Pure Home Care Manufacturing,2026-11-02,2026-11-16,2026-11-21,5,0,183,183,received
+P00366,366,Paper Plus Packaging LLC,2026-11-07,2026-11-18,2026-11-18,0,1,269,269,received
+P00367,367,Paper Plus Packaging LLC,2026-11-05,2026-11-16,2026-11-16,0,1,235,235,received
+P00368,368,Orient Personal Care FZCO,2026-11-05,2026-11-21,2026-11-21,0,1,273,273,received
