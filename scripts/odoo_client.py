@@ -1,18 +1,22 @@
+import os
 import xmlrpc.client
 import getpass
 
-URL = "http://localhost:8069"
-DB = "nexusai"
+from dotenv import load_dotenv
+
+load_dotenv()
+URL = os.getenv("ODOO_URL", "http://localhost:8069")
+DB = os.getenv("ODOO_DB", "nexusai")
 
 
 class Odoo:
     def __init__(self):
-        email = input("Odoo admin email: ")
-        self.password = getpass.getpass("Odoo admin password: ")
+        email = os.getenv("ODOO_EMAIL") or input("Odoo admin email: ")
+        self.password = os.getenv("ODOO_PASSWORD") or getpass.getpass("Odoo admin password: ")
         common = xmlrpc.client.ServerProxy(f"{URL}/xmlrpc/2/common")
         self.uid = common.authenticate(DB, email, self.password, {})
         if not self.uid:
-            raise SystemExit("LOGIN FAILED: check email and password")
+            raise SystemExit("LOGIN FAILED: check the values in your .env file")
         self.models = xmlrpc.client.ServerProxy(f"{URL}/xmlrpc/2/object")
 
     def call(self, model, method, *args, **kwargs):
@@ -21,8 +25,7 @@ class Odoo:
                 DB, self.uid, self.password, model, method, list(args), kwargs
             )
         except xmlrpc.client.Fault as e:
-            # Some Odoo actions return nothing. The action itself succeeded;
-            # only the empty reply cannot be sent back over XML-RPC.
+            # Some Odoo actions return nothing; the action itself succeeded.
             if "cannot marshal None" in str(e):
                 return None
             raise
