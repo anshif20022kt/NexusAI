@@ -1,0 +1,838 @@
+order_id,date,month,customer_id,customer,city
+290,2026-11-23 09:17:00,2026-11,7,Gulf Basket Trading LLC,Dubai
+283,2026-11-22 17:02:00,2026-11,18,Khalifa Staff Catering LLC,Abu Dhabi
+281,2026-11-22 16:57:00,2026-11,24,Qasr Al Bahr Grocery,Al Ain
+278,2026-11-22 14:08:00,2026-11,11,Sahara Cash & Carry,Sharjah
+285,2026-11-22 08:35:00,2026-11,25,Metro Value Stores LLC,Sharjah
+288,2026-11-21 10:18:00,2026-11,11,Sahara Cash & Carry,Sharjah
+277,2026-11-20 17:04:00,2026-11,14,Oasis Canteen Solutions,Al Ain
+280,2026-11-19 17:56:00,2026-11,18,Khalifa Staff Catering LLC,Abu Dhabi
+279,2026-11-18 17:40:00,2026-11,14,Oasis Canteen Solutions,Al Ain
+286,2026-11-17 17:03:00,2026-11,23,Silver Sands Cafeteria,Fujairah
+284,2026-11-17 16:12:00,2026-11,8,Marina Mart Grocery,Dubai
+289,2026-11-16 07:50:00,2026-11,8,Marina Mart Grocery,Dubai
+287,2026-11-15 07:20:00,2026-11,7,Gulf Basket Trading LLC,Dubai
+294,2026-11-13 12:25:00,2026-11,15,Emirates Family Mart,Ajman
+276,2026-11-12 09:13:00,2026-11,16,Blue Dune Restaurants Group,Dubai
+295,2026-11-11 17:04:00,2026-11,10,Corniche Daily Needs LLC,Abu Dhabi
+292,2026-11-09 13:23:00,2026-11,7,Gulf Basket Trading LLC,Dubai
+293,2026-11-08 08:56:00,2026-11,25,Metro Value Stores LLC,Sharjah
+282,2026-11-07 08:22:00,2026-11,15,Emirates Family Mart,Ajman
+291,2026-11-04 10:59:00,2026-11,16,Blue Dune Restaurants Group,Dubai
+263,2026-10-28 07:59:00,2026-10,10,Corniche Daily Needs LLC,Abu Dhabi
+275,2026-10-26 14:37:00,2026-10,10,Corniche Daily Needs LLC,Abu Dhabi
+261,2026-10-24 15:47:00,2026-10,13,Pearl Hotel Supplies LLC,Dubai
+255,2026-10-24 10:25:00,2026-10,15,Emirates Family Mart,Ajman
+274,2026-10-23 07:52:00,2026-10,16,Blue Dune Restaurants Group,Dubai
+260,2026-10-20 14:25:00,2026-10,6,Al Noor Fresh Supermarket LLC,Dubai
+267,2026-10-19 16:06:00,2026-10,21,Nakheel Fresh Foods Trading,Dubai
+256,2026-10-19 14:03:00,2026-10,10,Corniche Daily Needs LLC,Abu Dhabi
+272,2026-10-17 10:56:00,2026-10,12,Falcon Catering Services,Dubai
+268,2026-10-16 10:21:00,2026-10,17,Al Wasl Minimarket,Dubai
+265,2026-10-14 12:43:00,2026-10,14,Oasis Canteen Solutions,Al Ain
+253,2026-10-12 08:42:00,2026-10,6,Al Noor Fresh Supermarket LLC,Dubai
+271,2026-10-11 14:15:00,2026-10,24,Qasr Al Bahr Grocery,Al Ain
+257,2026-10-11 12:12:00,2026-10,22,Horizon School Canteens,Abu Dhabi
+251,2026-10-10 15:17:00,2026-10,8,Marina Mart Grocery,Dubai
+264,2026-10-10 11:20:00,2026-10,9,Desert Palm Hypermarket,Abu Dhabi
+258,2026-10-08 13:51:00,2026-10,18,Khalifa Staff Catering LLC,Abu Dhabi
+259,2026-10-07 14:58:00,2026-10,11,Sahara Cash & Carry,Sharjah
+270,2026-10-06 17:05:00,2026-10,20,Coral Bay Resort Supplies,Ras Al Khaimah
+254,2026-10-04 16:36:00,2026-10,12,Falcon Catering Services,Dubai
+262,2026-10-04 14:06:00,2026-10,10,Corniche Daily Needs LLC,Abu Dhabi
+266,2026-10-03 10:31:00,2026-10,17,Al Wasl Minimarket,Dubai
+273,2026-10-03 09:09:00,2026-10,13,Pearl Hotel Supplies LLC,Dubai
+269,2026-10-02 15:37:00,2026-10,8,Marina Mart Grocery,Dubai
+252,2026-10-02 14:24:00,2026-10,11,Sahara Cash & Carry,Sharjah
+229,2026-09-28 15:09:00,2026-09,8,Marina Mart Grocery,Dubai
+233,2026-09-26 13:29:00,2026-09,17,Al Wasl Minimarket,Dubai
+237,2026-09-26 08:09:00,2026-09,21,Nakheel Fresh Foods Trading,Dubai
+245,2026-09-22 17:28:00,2026-09,25,Metro Value Stores LLC,Sharjah
+238,2026-09-22 13:05:00,2026-09,17,Al Wasl Minimarket,Dubai
+226,2026-09-21 12:59:00,2026-09,18,Khalifa Staff Catering LLC,Abu Dhabi
+228,2026-09-21 12:03:00,2026-09,11,Sahara Cash & Carry,Sharjah
+235,2026-09-21 11:19:00,2026-09,12,Falcon Catering Services,Dubai
+232,2026-09-20 12:47:00,2026-09,8,Marina Mart Grocery,Dubai
+247,2026-09-17 16:30:00,2026-09,17,Al Wasl Minimarket,Dubai
+230,2026-09-17 15:17:00,2026-09,12,Falcon Catering Services,Dubai
+250,2026-09-16 15:42:00,2026-09,9,Desert Palm Hypermarket,Abu Dhabi
+231,2026-09-13 08:59:00,2026-09,7,Gulf Basket Trading LLC,Dubai
+241,2026-09-12 14:58:00,2026-09,7,Gulf Basket Trading LLC,Dubai
+246,2026-09-12 08:25:00,2026-09,8,Marina Mart Grocery,Dubai
+243,2026-09-11 13:55:00,2026-09,6,Al Noor Fresh Supermarket LLC,Dubai
+248,2026-09-11 13:23:00,2026-09,25,Metro Value Stores LLC,Sharjah
+249,2026-09-10 14:44:00,2026-09,8,Marina Mart Grocery,Dubai
+242,2026-09-09 08:02:00,2026-09,24,Qasr Al Bahr Grocery,Al Ain
+244,2026-09-08 16:32:00,2026-09,18,Khalifa Staff Catering LLC,Abu Dhabi
+234,2026-09-08 16:24:00,2026-09,19,Mirage Cafe Chain,Sharjah
+236,2026-09-06 12:43:00,2026-09,6,Al Noor Fresh Supermarket LLC,Dubai
+227,2026-09-06 07:55:00,2026-09,11,Sahara Cash & Carry,Sharjah
+239,2026-09-05 15:38:00,2026-09,14,Oasis Canteen Solutions,Al Ain
+240,2026-09-05 15:27:00,2026-09,13,Pearl Hotel Supplies LLC,Dubai
+205,2026-08-28 14:30:00,2026-08,22,Horizon School Canteens,Abu Dhabi
+214,2026-08-27 16:22:00,2026-08,8,Marina Mart Grocery,Dubai
+222,2026-08-26 10:22:00,2026-08,11,Sahara Cash & Carry,Sharjah
+224,2026-08-24 08:53:00,2026-08,15,Emirates Family Mart,Ajman
+202,2026-08-21 10:05:00,2026-08,9,Desert Palm Hypermarket,Abu Dhabi
+210,2026-08-21 08:12:00,2026-08,21,Nakheel Fresh Foods Trading,Dubai
+225,2026-08-20 11:55:00,2026-08,6,Al Noor Fresh Supermarket LLC,Dubai
+208,2026-08-19 16:26:00,2026-08,11,Sahara Cash & Carry,Sharjah
+213,2026-08-19 08:58:00,2026-08,17,Al Wasl Minimarket,Dubai
+216,2026-08-18 11:28:00,2026-08,17,Al Wasl Minimarket,Dubai
+220,2026-08-18 08:55:00,2026-08,16,Blue Dune Restaurants Group,Dubai
+212,2026-08-13 10:03:00,2026-08,15,Emirates Family Mart,Ajman
+209,2026-08-12 15:37:00,2026-08,7,Gulf Basket Trading LLC,Dubai
+221,2026-08-10 12:47:00,2026-08,12,Falcon Catering Services,Dubai
+201,2026-08-09 08:41:00,2026-08,7,Gulf Basket Trading LLC,Dubai
+207,2026-08-07 14:05:00,2026-08,22,Horizon School Canteens,Abu Dhabi
+215,2026-08-07 14:01:00,2026-08,7,Gulf Basket Trading LLC,Dubai
+211,2026-08-05 15:35:00,2026-08,17,Al Wasl Minimarket,Dubai
+203,2026-08-04 11:47:00,2026-08,25,Metro Value Stores LLC,Sharjah
+206,2026-08-03 17:03:00,2026-08,11,Sahara Cash & Carry,Sharjah
+217,2026-08-03 09:39:00,2026-08,23,Silver Sands Cafeteria,Fujairah
+223,2026-08-03 09:19:00,2026-08,19,Mirage Cafe Chain,Sharjah
+219,2026-08-02 17:09:00,2026-08,17,Al Wasl Minimarket,Dubai
+204,2026-08-02 10:31:00,2026-08,17,Al Wasl Minimarket,Dubai
+218,2026-08-02 10:10:00,2026-08,23,Silver Sands Cafeteria,Fujairah
+182,2026-07-28 09:20:00,2026-07,16,Blue Dune Restaurants Group,Dubai
+178,2026-07-27 08:37:00,2026-07,24,Qasr Al Bahr Grocery,Al Ain
+189,2026-07-25 11:12:00,2026-07,8,Marina Mart Grocery,Dubai
+195,2026-07-23 13:47:00,2026-07,15,Emirates Family Mart,Ajman
+199,2026-07-20 14:53:00,2026-07,20,Coral Bay Resort Supplies,Ras Al Khaimah
+194,2026-07-20 07:15:00,2026-07,19,Mirage Cafe Chain,Sharjah
+177,2026-07-19 17:40:00,2026-07,25,Metro Value Stores LLC,Sharjah
+187,2026-07-19 12:34:00,2026-07,25,Metro Value Stores LLC,Sharjah
+193,2026-07-19 10:36:00,2026-07,11,Sahara Cash & Carry,Sharjah
+198,2026-07-17 14:08:00,2026-07,10,Corniche Daily Needs LLC,Abu Dhabi
+179,2026-07-17 09:36:00,2026-07,13,Pearl Hotel Supplies LLC,Dubai
+176,2026-07-17 09:07:00,2026-07,8,Marina Mart Grocery,Dubai
+180,2026-07-16 14:39:00,2026-07,11,Sahara Cash & Carry,Sharjah
+196,2026-07-14 17:32:00,2026-07,7,Gulf Basket Trading LLC,Dubai
+190,2026-07-13 14:49:00,2026-07,21,Nakheel Fresh Foods Trading,Dubai
+192,2026-07-13 07:38:00,2026-07,9,Desert Palm Hypermarket,Abu Dhabi
+186,2026-07-12 10:46:00,2026-07,21,Nakheel Fresh Foods Trading,Dubai
+184,2026-07-12 08:21:00,2026-07,6,Al Noor Fresh Supermarket LLC,Dubai
+185,2026-07-11 09:15:00,2026-07,8,Marina Mart Grocery,Dubai
+183,2026-07-08 17:24:00,2026-07,24,Qasr Al Bahr Grocery,Al Ain
+191,2026-07-08 13:22:00,2026-07,17,Al Wasl Minimarket,Dubai
+197,2026-07-08 07:10:00,2026-07,6,Al Noor Fresh Supermarket LLC,Dubai
+200,2026-07-06 12:28:00,2026-07,11,Sahara Cash & Carry,Sharjah
+181,2026-07-03 12:12:00,2026-07,11,Sahara Cash & Carry,Sharjah
+188,2026-07-01 17:45:00,2026-07,13,Pearl Hotel Supplies LLC,Dubai
+161,2026-06-27 16:51:00,2026-06,16,Blue Dune Restaurants Group,Dubai
+160,2026-06-27 16:33:00,2026-06,19,Mirage Cafe Chain,Sharjah
+168,2026-06-27 14:22:00,2026-06,23,Silver Sands Cafeteria,Fujairah
+152,2026-06-25 10:45:00,2026-06,15,Emirates Family Mart,Ajman
+158,2026-06-21 16:29:00,2026-06,10,Corniche Daily Needs LLC,Abu Dhabi
+151,2026-06-21 07:28:00,2026-06,13,Pearl Hotel Supplies LLC,Dubai
+169,2026-06-20 11:52:00,2026-06,11,Sahara Cash & Carry,Sharjah
+172,2026-06-19 13:37:00,2026-06,6,Al Noor Fresh Supermarket LLC,Dubai
+153,2026-06-19 11:12:00,2026-06,14,Oasis Canteen Solutions,Al Ain
+156,2026-06-19 07:18:00,2026-06,16,Blue Dune Restaurants Group,Dubai
+159,2026-06-18 16:14:00,2026-06,23,Silver Sands Cafeteria,Fujairah
+166,2026-06-18 11:39:00,2026-06,12,Falcon Catering Services,Dubai
+155,2026-06-17 14:33:00,2026-06,25,Metro Value Stores LLC,Sharjah
+174,2026-06-15 07:43:00,2026-06,11,Sahara Cash & Carry,Sharjah
+171,2026-06-13 17:20:00,2026-06,19,Mirage Cafe Chain,Sharjah
+167,2026-06-11 15:20:00,2026-06,25,Metro Value Stores LLC,Sharjah
+162,2026-06-11 13:12:00,2026-06,23,Silver Sands Cafeteria,Fujairah
+165,2026-06-10 13:36:00,2026-06,21,Nakheel Fresh Foods Trading,Dubai
+163,2026-06-09 17:34:00,2026-06,22,Horizon School Canteens,Abu Dhabi
+157,2026-06-08 16:11:00,2026-06,23,Silver Sands Cafeteria,Fujairah
+175,2026-06-05 10:26:00,2026-06,22,Horizon School Canteens,Abu Dhabi
+170,2026-06-04 14:25:00,2026-06,23,Silver Sands Cafeteria,Fujairah
+164,2026-06-04 11:22:00,2026-06,10,Corniche Daily Needs LLC,Abu Dhabi
+154,2026-06-03 07:26:00,2026-06,8,Marina Mart Grocery,Dubai
+173,2026-06-01 07:16:00,2026-06,8,Marina Mart Grocery,Dubai
+128,2026-05-28 09:50:00,2026-05,11,Sahara Cash & Carry,Sharjah
+126,2026-05-26 07:25:00,2026-05,23,Silver Sands Cafeteria,Fujairah
+147,2026-05-25 14:06:00,2026-05,21,Nakheel Fresh Foods Trading,Dubai
+132,2026-05-24 09:59:00,2026-05,7,Gulf Basket Trading LLC,Dubai
+138,2026-05-23 10:59:00,2026-05,13,Pearl Hotel Supplies LLC,Dubai
+131,2026-05-22 17:07:00,2026-05,21,Nakheel Fresh Foods Trading,Dubai
+143,2026-05-22 15:25:00,2026-05,8,Marina Mart Grocery,Dubai
+145,2026-05-22 11:37:00,2026-05,6,Al Noor Fresh Supermarket LLC,Dubai
+136,2026-05-20 10:51:00,2026-05,11,Sahara Cash & Carry,Sharjah
+134,2026-05-20 07:20:00,2026-05,21,Nakheel Fresh Foods Trading,Dubai
+141,2026-05-19 10:16:00,2026-05,17,Al Wasl Minimarket,Dubai
+142,2026-05-18 12:55:00,2026-05,16,Blue Dune Restaurants Group,Dubai
+148,2026-05-18 09:28:00,2026-05,7,Gulf Basket Trading LLC,Dubai
+129,2026-05-17 07:52:00,2026-05,10,Corniche Daily Needs LLC,Abu Dhabi
+130,2026-05-16 13:35:00,2026-05,6,Al Noor Fresh Supermarket LLC,Dubai
+149,2026-05-16 08:20:00,2026-05,15,Emirates Family Mart,Ajman
+146,2026-05-15 10:51:00,2026-05,10,Corniche Daily Needs LLC,Abu Dhabi
+127,2026-05-13 16:09:00,2026-05,8,Marina Mart Grocery,Dubai
+150,2026-05-12 13:16:00,2026-05,10,Corniche Daily Needs LLC,Abu Dhabi
+140,2026-05-12 08:23:00,2026-05,11,Sahara Cash & Carry,Sharjah
+139,2026-05-11 14:32:00,2026-05,14,Oasis Canteen Solutions,Al Ain
+135,2026-05-09 16:21:00,2026-05,25,Metro Value Stores LLC,Sharjah
+137,2026-05-05 11:54:00,2026-05,21,Nakheel Fresh Foods Trading,Dubai
+144,2026-05-02 15:57:00,2026-05,15,Emirates Family Mart,Ajman
+133,2026-05-02 07:00:00,2026-05,14,Oasis Canteen Solutions,Al Ain
+111,2026-04-28 13:30:00,2026-04,20,Coral Bay Resort Supplies,Ras Al Khaimah
+110,2026-04-28 10:42:00,2026-04,7,Gulf Basket Trading LLC,Dubai
+123,2026-04-26 08:32:00,2026-04,13,Pearl Hotel Supplies LLC,Dubai
+116,2026-04-24 10:52:00,2026-04,12,Falcon Catering Services,Dubai
+109,2026-04-23 10:32:00,2026-04,19,Mirage Cafe Chain,Sharjah
+120,2026-04-22 15:50:00,2026-04,14,Oasis Canteen Solutions,Al Ain
+118,2026-04-22 12:09:00,2026-04,16,Blue Dune Restaurants Group,Dubai
+113,2026-04-21 12:33:00,2026-04,7,Gulf Basket Trading LLC,Dubai
+103,2026-04-21 12:22:00,2026-04,7,Gulf Basket Trading LLC,Dubai
+119,2026-04-21 11:16:00,2026-04,16,Blue Dune Restaurants Group,Dubai
+106,2026-04-21 10:32:00,2026-04,15,Emirates Family Mart,Ajman
+102,2026-04-19 12:53:00,2026-04,20,Coral Bay Resort Supplies,Ras Al Khaimah
+105,2026-04-19 12:33:00,2026-04,21,Nakheel Fresh Foods Trading,Dubai
+101,2026-04-19 11:10:00,2026-04,14,Oasis Canteen Solutions,Al Ain
+124,2026-04-18 10:18:00,2026-04,8,Marina Mart Grocery,Dubai
+122,2026-04-16 17:18:00,2026-04,18,Khalifa Staff Catering LLC,Abu Dhabi
+121,2026-04-16 15:03:00,2026-04,11,Sahara Cash & Carry,Sharjah
+104,2026-04-14 15:32:00,2026-04,8,Marina Mart Grocery,Dubai
+117,2026-04-09 13:43:00,2026-04,16,Blue Dune Restaurants Group,Dubai
+114,2026-04-09 13:25:00,2026-04,11,Sahara Cash & Carry,Sharjah
+108,2026-04-09 10:06:00,2026-04,19,Mirage Cafe Chain,Sharjah
+115,2026-04-09 08:14:00,2026-04,24,Qasr Al Bahr Grocery,Al Ain
+107,2026-04-09 08:10:00,2026-04,19,Mirage Cafe Chain,Sharjah
+125,2026-04-07 17:31:00,2026-04,16,Blue Dune Restaurants Group,Dubai
+112,2026-04-02 11:34:00,2026-04,6,Al Noor Fresh Supermarket LLC,Dubai
+99,2026-03-27 17:40:00,2026-03,8,Marina Mart Grocery,Dubai
+92,2026-03-27 16:11:00,2026-03,9,Desert Palm Hypermarket,Abu Dhabi
+81,2026-03-27 09:51:00,2026-03,18,Khalifa Staff Catering LLC,Abu Dhabi
+82,2026-03-25 15:05:00,2026-03,20,Coral Bay Resort Supplies,Ras Al Khaimah
+78,2026-03-23 09:40:00,2026-03,8,Marina Mart Grocery,Dubai
+97,2026-03-23 07:01:00,2026-03,8,Marina Mart Grocery,Dubai
+87,2026-03-22 12:46:00,2026-03,8,Marina Mart Grocery,Dubai
+96,2026-03-19 11:50:00,2026-03,10,Corniche Daily Needs LLC,Abu Dhabi
+89,2026-03-19 11:37:00,2026-03,20,Coral Bay Resort Supplies,Ras Al Khaimah
+76,2026-03-18 09:41:00,2026-03,15,Emirates Family Mart,Ajman
+85,2026-03-13 09:50:00,2026-03,25,Metro Value Stores LLC,Sharjah
+86,2026-03-12 16:09:00,2026-03,11,Sahara Cash & Carry,Sharjah
+100,2026-03-11 16:32:00,2026-03,16,Blue Dune Restaurants Group,Dubai
+80,2026-03-10 16:15:00,2026-03,21,Nakheel Fresh Foods Trading,Dubai
+77,2026-03-10 09:53:00,2026-03,23,Silver Sands Cafeteria,Fujairah
+84,2026-03-09 14:09:00,2026-03,18,Khalifa Staff Catering LLC,Abu Dhabi
+94,2026-03-09 11:41:00,2026-03,18,Khalifa Staff Catering LLC,Abu Dhabi
+93,2026-03-08 08:16:00,2026-03,13,Pearl Hotel Supplies LLC,Dubai
+98,2026-03-07 15:57:00,2026-03,16,Blue Dune Restaurants Group,Dubai
+95,2026-03-07 13:21:00,2026-03,12,Falcon Catering Services,Dubai
+83,2026-03-07 09:56:00,2026-03,23,Silver Sands Cafeteria,Fujairah
+79,2026-03-04 09:15:00,2026-03,19,Mirage Cafe Chain,Sharjah
+90,2026-03-03 17:09:00,2026-03,9,Desert Palm Hypermarket,Abu Dhabi
+88,2026-03-02 09:31:00,2026-03,19,Mirage Cafe Chain,Sharjah
+91,2026-03-01 07:03:00,2026-03,19,Mirage Cafe Chain,Sharjah
+66,2026-02-27 09:38:00,2026-02,17,Al Wasl Minimarket,Dubai
+74,2026-02-22 11:26:00,2026-02,8,Marina Mart Grocery,Dubai
+56,2026-02-21 11:33:00,2026-02,7,Gulf Basket Trading LLC,Dubai
+75,2026-02-21 10:25:00,2026-02,17,Al Wasl Minimarket,Dubai
+70,2026-02-21 08:41:00,2026-02,11,Sahara Cash & Carry,Sharjah
+64,2026-02-20 12:23:00,2026-02,16,Blue Dune Restaurants Group,Dubai
+60,2026-02-20 09:59:00,2026-02,16,Blue Dune Restaurants Group,Dubai
+67,2026-02-16 15:34:00,2026-02,9,Desert Palm Hypermarket,Abu Dhabi
+73,2026-02-16 08:26:00,2026-02,22,Horizon School Canteens,Abu Dhabi
+63,2026-02-15 10:20:00,2026-02,16,Blue Dune Restaurants Group,Dubai
+54,2026-02-14 14:37:00,2026-02,21,Nakheel Fresh Foods Trading,Dubai
+51,2026-02-14 09:35:00,2026-02,15,Emirates Family Mart,Ajman
+57,2026-02-11 17:53:00,2026-02,19,Mirage Cafe Chain,Sharjah
+62,2026-02-09 08:22:00,2026-02,24,Qasr Al Bahr Grocery,Al Ain
+72,2026-02-09 07:38:00,2026-02,24,Qasr Al Bahr Grocery,Al Ain
+68,2026-02-08 09:26:00,2026-02,7,Gulf Basket Trading LLC,Dubai
+69,2026-02-07 14:15:00,2026-02,12,Falcon Catering Services,Dubai
+59,2026-02-07 14:12:00,2026-02,17,Al Wasl Minimarket,Dubai
+71,2026-02-07 08:23:00,2026-02,15,Emirates Family Mart,Ajman
+61,2026-02-06 12:12:00,2026-02,16,Blue Dune Restaurants Group,Dubai
+55,2026-02-03 15:49:00,2026-02,10,Corniche Daily Needs LLC,Abu Dhabi
+53,2026-02-03 11:57:00,2026-02,17,Al Wasl Minimarket,Dubai
+58,2026-02-03 11:14:00,2026-02,16,Blue Dune Restaurants Group,Dubai
+52,2026-02-01 13:24:00,2026-02,15,Emirates Family Mart,Ajman
+65,2026-02-01 10:06:00,2026-02,22,Horizon School Canteens,Abu Dhabi
+28,2026-01-28 17:52:00,2026-01,6,Al Noor Fresh Supermarket LLC,Dubai
+47,2026-01-25 11:54:00,2026-01,12,Falcon Catering Services,Dubai
+45,2026-01-23 12:14:00,2026-01,18,Khalifa Staff Catering LLC,Abu Dhabi
+34,2026-01-22 11:38:00,2026-01,24,Qasr Al Bahr Grocery,Al Ain
+38,2026-01-21 13:46:00,2026-01,17,Al Wasl Minimarket,Dubai
+29,2026-01-21 08:51:00,2026-01,10,Corniche Daily Needs LLC,Abu Dhabi
+42,2026-01-20 16:08:00,2026-01,14,Oasis Canteen Solutions,Al Ain
+37,2026-01-19 15:54:00,2026-01,13,Pearl Hotel Supplies LLC,Dubai
+26,2026-01-17 13:21:00,2026-01,13,Pearl Hotel Supplies LLC,Dubai
+32,2026-01-16 10:59:00,2026-01,18,Khalifa Staff Catering LLC,Abu Dhabi
+49,2026-01-15 16:48:00,2026-01,7,Gulf Basket Trading LLC,Dubai
+50,2026-01-13 17:15:00,2026-01,21,Nakheel Fresh Foods Trading,Dubai
+35,2026-01-11 10:02:00,2026-01,6,Al Noor Fresh Supermarket LLC,Dubai
+43,2026-01-10 15:18:00,2026-01,21,Nakheel Fresh Foods Trading,Dubai
+31,2026-01-10 14:32:00,2026-01,13,Pearl Hotel Supplies LLC,Dubai
+48,2026-01-09 13:32:00,2026-01,19,Mirage Cafe Chain,Sharjah
+44,2026-01-09 13:13:00,2026-01,20,Coral Bay Resort Supplies,Ras Al Khaimah
+40,2026-01-09 07:29:00,2026-01,15,Emirates Family Mart,Ajman
+41,2026-01-08 17:29:00,2026-01,22,Horizon School Canteens,Abu Dhabi
+33,2026-01-07 17:08:00,2026-01,13,Pearl Hotel Supplies LLC,Dubai
+39,2026-01-05 17:23:00,2026-01,14,Oasis Canteen Solutions,Al Ain
+36,2026-01-03 11:52:00,2026-01,16,Blue Dune Restaurants Group,Dubai
+27,2026-01-03 08:58:00,2026-01,19,Mirage Cafe Chain,Sharjah
+30,2026-01-02 15:45:00,2026-01,15,Emirates Family Mart,Ajman
+46,2026-01-01 12:48:00,2026-01,19,Mirage Cafe Chain,Sharjah
+8,2025-12-28 14:05:00,2025-12,8,Marina Mart Grocery,Dubai
+24,2025-12-27 14:08:00,2025-12,8,Marina Mart Grocery,Dubai
+22,2025-12-22 15:33:00,2025-12,18,Khalifa Staff Catering LLC,Abu Dhabi
+9,2025-12-22 13:14:00,2025-12,22,Horizon School Canteens,Abu Dhabi
+2,2025-12-21 17:37:00,2025-12,10,Corniche Daily Needs LLC,Abu Dhabi
+17,2025-12-21 12:51:00,2025-12,18,Khalifa Staff Catering LLC,Abu Dhabi
+23,2025-12-20 15:38:00,2025-12,15,Emirates Family Mart,Ajman
+15,2025-12-20 10:51:00,2025-12,7,Gulf Basket Trading LLC,Dubai
+4,2025-12-19 14:23:00,2025-12,19,Mirage Cafe Chain,Sharjah
+3,2025-12-18 08:36:00,2025-12,21,Nakheel Fresh Foods Trading,Dubai
+12,2025-12-18 08:23:00,2025-12,14,Oasis Canteen Solutions,Al Ain
+13,2025-12-16 11:05:00,2025-12,13,Pearl Hotel Supplies LLC,Dubai
+21,2025-12-14 15:08:00,2025-12,18,Khalifa Staff Catering LLC,Abu Dhabi
+11,2025-12-13 13:25:00,2025-12,10,Corniche Daily Needs LLC,Abu Dhabi
+14,2025-12-12 09:44:00,2025-12,12,Falcon Catering Services,Dubai
+7,2025-12-12 09:39:00,2025-12,25,Metro Value Stores LLC,Sharjah
+16,2025-12-07 16:22:00,2025-12,14,Oasis Canteen Solutions,Al Ain
+20,2025-12-07 11:32:00,2025-12,13,Pearl Hotel Supplies LLC,Dubai
+5,2025-12-06 12:09:00,2025-12,21,Nakheel Fresh Foods Trading,Dubai
+19,2025-12-05 15:35:00,2025-12,7,Gulf Basket Trading LLC,Dubai
+25,2025-12-05 11:56:00,2025-12,19,Mirage Cafe Chain,Sharjah
+1,2025-12-03 15:06:00,2025-12,12,Falcon Catering Services,Dubai
+18,2025-12-03 13:29:00,2025-12,8,Marina Mart Grocery,Dubai
+6,2025-12-03 08:17:00,2025-12,21,Nakheel Fresh Foods Trading,Dubai
+10,2025-12-01 09:26:00,2025-12,24,Qasr Al Bahr Grocery,Al Ain
+817,2025-11-25 11:35:00,2025-11,19,Mirage Cafe Chain,Sharjah
+829,2025-11-25 09:21:00,2025-11,12,Falcon Catering Services,Dubai
+818,2025-11-24 08:37:00,2025-11,21,Nakheel Fresh Foods Trading,Dubai
+833,2025-11-23 15:13:00,2025-11,20,Coral Bay Resort Supplies,Ras Al Khaimah
+820,2025-11-19 11:13:00,2025-11,23,Silver Sands Cafeteria,Fujairah
+831,2025-11-18 15:02:00,2025-11,15,Emirates Family Mart,Ajman
+819,2025-11-16 16:03:00,2025-11,16,Blue Dune Restaurants Group,Dubai
+828,2025-11-16 09:06:00,2025-11,12,Falcon Catering Services,Dubai
+825,2025-11-14 10:28:00,2025-11,15,Emirates Family Mart,Ajman
+834,2025-11-14 09:47:00,2025-11,12,Falcon Catering Services,Dubai
+830,2025-11-11 07:02:00,2025-11,12,Falcon Catering Services,Dubai
+815,2025-11-10 16:30:00,2025-11,13,Pearl Hotel Supplies LLC,Dubai
+813,2025-11-10 11:53:00,2025-11,8,Marina Mart Grocery,Dubai
+826,2025-11-10 08:19:00,2025-11,6,Al Noor Fresh Supermarket LLC,Dubai
+835,2025-11-09 17:42:00,2025-11,8,Marina Mart Grocery,Dubai
+824,2025-11-07 13:19:00,2025-11,21,Nakheel Fresh Foods Trading,Dubai
+822,2025-11-07 07:42:00,2025-11,14,Oasis Canteen Solutions,Al Ain
+836,2025-11-06 11:56:00,2025-11,8,Marina Mart Grocery,Dubai
+837,2025-11-06 09:46:00,2025-11,19,Mirage Cafe Chain,Sharjah
+832,2025-11-05 09:14:00,2025-11,14,Oasis Canteen Solutions,Al Ain
+827,2025-11-04 17:25:00,2025-11,16,Blue Dune Restaurants Group,Dubai
+823,2025-11-03 14:35:00,2025-11,23,Silver Sands Cafeteria,Fujairah
+821,2025-11-02 16:24:00,2025-11,15,Emirates Family Mart,Ajman
+814,2025-11-01 15:40:00,2025-11,17,Al Wasl Minimarket,Dubai
+816,2025-11-01 10:33:00,2025-11,9,Desert Palm Hypermarket,Abu Dhabi
+809,2025-10-28 14:19:00,2025-10,11,Sahara Cash & Carry,Sharjah
+793,2025-10-27 17:42:00,2025-10,6,Al Noor Fresh Supermarket LLC,Dubai
+794,2025-10-27 09:45:00,2025-10,11,Sahara Cash & Carry,Sharjah
+803,2025-10-27 09:08:00,2025-10,22,Horizon School Canteens,Abu Dhabi
+796,2025-10-26 17:49:00,2025-10,12,Falcon Catering Services,Dubai
+800,2025-10-26 17:21:00,2025-10,18,Khalifa Staff Catering LLC,Abu Dhabi
+791,2025-10-24 15:15:00,2025-10,11,Sahara Cash & Carry,Sharjah
+810,2025-10-23 15:05:00,2025-10,17,Al Wasl Minimarket,Dubai
+788,2025-10-23 10:17:00,2025-10,8,Marina Mart Grocery,Dubai
+798,2025-10-22 09:39:00,2025-10,17,Al Wasl Minimarket,Dubai
+801,2025-10-21 09:04:00,2025-10,17,Al Wasl Minimarket,Dubai
+808,2025-10-17 15:55:00,2025-10,25,Metro Value Stores LLC,Sharjah
+812,2025-10-17 15:39:00,2025-10,17,Al Wasl Minimarket,Dubai
+807,2025-10-16 13:16:00,2025-10,15,Emirates Family Mart,Ajman
+811,2025-10-16 12:15:00,2025-10,13,Pearl Hotel Supplies LLC,Dubai
+797,2025-10-15 08:56:00,2025-10,7,Gulf Basket Trading LLC,Dubai
+802,2025-10-14 08:11:00,2025-10,23,Silver Sands Cafeteria,Fujairah
+789,2025-10-11 15:10:00,2025-10,14,Oasis Canteen Solutions,Al Ain
+790,2025-10-11 09:19:00,2025-10,8,Marina Mart Grocery,Dubai
+799,2025-10-08 16:17:00,2025-10,11,Sahara Cash & Carry,Sharjah
+792,2025-10-08 16:13:00,2025-10,9,Desert Palm Hypermarket,Abu Dhabi
+806,2025-10-04 14:08:00,2025-10,15,Emirates Family Mart,Ajman
+804,2025-10-04 09:04:00,2025-10,15,Emirates Family Mart,Ajman
+795,2025-10-03 12:16:00,2025-10,20,Coral Bay Resort Supplies,Ras Al Khaimah
+805,2025-10-02 11:18:00,2025-10,19,Mirage Cafe Chain,Sharjah
+782,2025-09-28 11:17:00,2025-09,18,Khalifa Staff Catering LLC,Abu Dhabi
+773,2025-09-27 07:27:00,2025-09,9,Desert Palm Hypermarket,Abu Dhabi
+777,2025-09-26 12:24:00,2025-09,9,Desert Palm Hypermarket,Abu Dhabi
+775,2025-09-24 14:56:00,2025-09,12,Falcon Catering Services,Dubai
+779,2025-09-24 09:01:00,2025-09,10,Corniche Daily Needs LLC,Abu Dhabi
+785,2025-09-22 16:02:00,2025-09,14,Oasis Canteen Solutions,Al Ain
+786,2025-09-22 14:27:00,2025-09,24,Qasr Al Bahr Grocery,Al Ain
+784,2025-09-20 14:39:00,2025-09,20,Coral Bay Resort Supplies,Ras Al Khaimah
+769,2025-09-17 17:47:00,2025-09,12,Falcon Catering Services,Dubai
+770,2025-09-17 15:25:00,2025-09,14,Oasis Canteen Solutions,Al Ain
+763,2025-09-14 07:45:00,2025-09,22,Horizon School Canteens,Abu Dhabi
+764,2025-09-13 17:39:00,2025-09,15,Emirates Family Mart,Ajman
+778,2025-09-13 16:50:00,2025-09,25,Metro Value Stores LLC,Sharjah
+765,2025-09-13 10:02:00,2025-09,13,Pearl Hotel Supplies LLC,Dubai
+771,2025-09-12 16:26:00,2025-09,13,Pearl Hotel Supplies LLC,Dubai
+772,2025-09-08 17:35:00,2025-09,10,Corniche Daily Needs LLC,Abu Dhabi
+776,2025-09-07 09:12:00,2025-09,24,Qasr Al Bahr Grocery,Al Ain
+774,2025-09-06 11:18:00,2025-09,7,Gulf Basket Trading LLC,Dubai
+780,2025-09-05 17:25:00,2025-09,12,Falcon Catering Services,Dubai
+768,2025-09-04 17:47:00,2025-09,16,Blue Dune Restaurants Group,Dubai
+766,2025-09-04 13:10:00,2025-09,14,Oasis Canteen Solutions,Al Ain
+783,2025-09-02 10:20:00,2025-09,10,Corniche Daily Needs LLC,Abu Dhabi
+767,2025-09-02 09:15:00,2025-09,20,Coral Bay Resort Supplies,Ras Al Khaimah
+787,2025-09-01 17:53:00,2025-09,23,Silver Sands Cafeteria,Fujairah
+781,2025-09-01 09:00:00,2025-09,22,Horizon School Canteens,Abu Dhabi
+744,2025-08-28 16:47:00,2025-08,14,Oasis Canteen Solutions,Al Ain
+756,2025-08-26 17:49:00,2025-08,24,Qasr Al Bahr Grocery,Al Ain
+755,2025-08-26 10:23:00,2025-08,10,Corniche Daily Needs LLC,Abu Dhabi
+752,2025-08-25 12:09:00,2025-08,22,Horizon School Canteens,Abu Dhabi
+740,2025-08-25 09:26:00,2025-08,21,Nakheel Fresh Foods Trading,Dubai
+757,2025-08-24 13:35:00,2025-08,7,Gulf Basket Trading LLC,Dubai
+761,2025-08-24 07:50:00,2025-08,24,Qasr Al Bahr Grocery,Al Ain
+758,2025-08-21 07:51:00,2025-08,9,Desert Palm Hypermarket,Abu Dhabi
+748,2025-08-19 15:50:00,2025-08,18,Khalifa Staff Catering LLC,Abu Dhabi
+760,2025-08-17 12:26:00,2025-08,19,Mirage Cafe Chain,Sharjah
+742,2025-08-17 08:48:00,2025-08,17,Al Wasl Minimarket,Dubai
+739,2025-08-15 07:42:00,2025-08,14,Oasis Canteen Solutions,Al Ain
+751,2025-08-14 08:25:00,2025-08,9,Desert Palm Hypermarket,Abu Dhabi
+741,2025-08-10 15:58:00,2025-08,14,Oasis Canteen Solutions,Al Ain
+745,2025-08-10 11:49:00,2025-08,19,Mirage Cafe Chain,Sharjah
+750,2025-08-09 17:49:00,2025-08,22,Horizon School Canteens,Abu Dhabi
+746,2025-08-09 16:49:00,2025-08,19,Mirage Cafe Chain,Sharjah
+759,2025-08-09 14:49:00,2025-08,23,Silver Sands Cafeteria,Fujairah
+753,2025-08-07 10:51:00,2025-08,23,Silver Sands Cafeteria,Fujairah
+762,2025-08-06 14:06:00,2025-08,10,Corniche Daily Needs LLC,Abu Dhabi
+749,2025-08-04 16:57:00,2025-08,13,Pearl Hotel Supplies LLC,Dubai
+754,2025-08-04 10:43:00,2025-08,22,Horizon School Canteens,Abu Dhabi
+747,2025-08-01 16:27:00,2025-08,7,Gulf Basket Trading LLC,Dubai
+743,2025-08-01 16:06:00,2025-08,13,Pearl Hotel Supplies LLC,Dubai
+722,2025-07-28 16:13:00,2025-07,22,Horizon School Canteens,Abu Dhabi
+715,2025-07-28 15:33:00,2025-07,10,Corniche Daily Needs LLC,Abu Dhabi
+736,2025-07-28 10:31:00,2025-07,11,Sahara Cash & Carry,Sharjah
+724,2025-07-23 17:40:00,2025-07,25,Metro Value Stores LLC,Sharjah
+716,2025-07-22 12:39:00,2025-07,20,Coral Bay Resort Supplies,Ras Al Khaimah
+728,2025-07-22 11:58:00,2025-07,19,Mirage Cafe Chain,Sharjah
+718,2025-07-21 13:57:00,2025-07,11,Sahara Cash & Carry,Sharjah
+717,2025-07-21 13:51:00,2025-07,24,Qasr Al Bahr Grocery,Al Ain
+726,2025-07-18 15:36:00,2025-07,24,Qasr Al Bahr Grocery,Al Ain
+738,2025-07-18 07:38:00,2025-07,9,Desert Palm Hypermarket,Abu Dhabi
+734,2025-07-17 10:09:00,2025-07,15,Emirates Family Mart,Ajman
+733,2025-07-16 11:40:00,2025-07,20,Coral Bay Resort Supplies,Ras Al Khaimah
+731,2025-07-15 16:48:00,2025-07,22,Horizon School Canteens,Abu Dhabi
+727,2025-07-15 14:01:00,2025-07,22,Horizon School Canteens,Abu Dhabi
+725,2025-07-12 15:08:00,2025-07,23,Silver Sands Cafeteria,Fujairah
+737,2025-07-12 15:07:00,2025-07,15,Emirates Family Mart,Ajman
+729,2025-07-12 09:49:00,2025-07,18,Khalifa Staff Catering LLC,Abu Dhabi
+723,2025-07-10 09:29:00,2025-07,11,Sahara Cash & Carry,Sharjah
+732,2025-07-08 09:43:00,2025-07,22,Horizon School Canteens,Abu Dhabi
+721,2025-07-07 13:38:00,2025-07,11,Sahara Cash & Carry,Sharjah
+735,2025-07-04 16:04:00,2025-07,6,Al Noor Fresh Supermarket LLC,Dubai
+720,2025-07-04 14:39:00,2025-07,14,Oasis Canteen Solutions,Al Ain
+730,2025-07-03 17:06:00,2025-07,14,Oasis Canteen Solutions,Al Ain
+719,2025-07-01 12:01:00,2025-07,8,Marina Mart Grocery,Dubai
+693,2025-06-28 12:07:00,2025-06,24,Qasr Al Bahr Grocery,Al Ain
+713,2025-06-25 07:28:00,2025-06,12,Falcon Catering Services,Dubai
+710,2025-06-24 13:13:00,2025-06,13,Pearl Hotel Supplies LLC,Dubai
+702,2025-06-24 13:03:00,2025-06,19,Mirage Cafe Chain,Sharjah
+706,2025-06-23 14:49:00,2025-06,17,Al Wasl Minimarket,Dubai
+704,2025-06-23 10:29:00,2025-06,25,Metro Value Stores LLC,Sharjah
+714,2025-06-21 17:08:00,2025-06,8,Marina Mart Grocery,Dubai
+707,2025-06-21 11:58:00,2025-06,11,Sahara Cash & Carry,Sharjah
+694,2025-06-21 10:33:00,2025-06,22,Horizon School Canteens,Abu Dhabi
+711,2025-06-21 09:35:00,2025-06,16,Blue Dune Restaurants Group,Dubai
+697,2025-06-21 07:46:00,2025-06,23,Silver Sands Cafeteria,Fujairah
+709,2025-06-20 12:24:00,2025-06,12,Falcon Catering Services,Dubai
+700,2025-06-19 14:52:00,2025-06,21,Nakheel Fresh Foods Trading,Dubai
+699,2025-06-19 13:44:00,2025-06,16,Blue Dune Restaurants Group,Dubai
+705,2025-06-17 08:14:00,2025-06,25,Metro Value Stores LLC,Sharjah
+708,2025-06-12 09:51:00,2025-06,23,Silver Sands Cafeteria,Fujairah
+698,2025-06-11 13:28:00,2025-06,24,Qasr Al Bahr Grocery,Al Ain
+695,2025-06-08 07:00:00,2025-06,21,Nakheel Fresh Foods Trading,Dubai
+701,2025-06-07 09:26:00,2025-06,8,Marina Mart Grocery,Dubai
+703,2025-06-06 14:03:00,2025-06,7,Gulf Basket Trading LLC,Dubai
+712,2025-06-03 15:59:00,2025-06,13,Pearl Hotel Supplies LLC,Dubai
+696,2025-06-03 15:58:00,2025-06,18,Khalifa Staff Catering LLC,Abu Dhabi
+691,2025-06-02 10:15:00,2025-06,8,Marina Mart Grocery,Dubai
+692,2025-06-01 07:01:00,2025-06,25,Metro Value Stores LLC,Sharjah
+686,2025-05-27 17:38:00,2025-05,6,Al Noor Fresh Supermarket LLC,Dubai
+672,2025-05-25 11:25:00,2025-05,9,Desert Palm Hypermarket,Abu Dhabi
+669,2025-05-25 08:07:00,2025-05,18,Khalifa Staff Catering LLC,Abu Dhabi
+681,2025-05-24 10:37:00,2025-05,22,Horizon School Canteens,Abu Dhabi
+678,2025-05-24 07:44:00,2025-05,12,Falcon Catering Services,Dubai
+687,2025-05-23 12:41:00,2025-05,9,Desert Palm Hypermarket,Abu Dhabi
+685,2025-05-22 15:03:00,2025-05,8,Marina Mart Grocery,Dubai
+673,2025-05-21 13:14:00,2025-05,12,Falcon Catering Services,Dubai
+688,2025-05-20 13:08:00,2025-05,18,Khalifa Staff Catering LLC,Abu Dhabi
+680,2025-05-17 17:32:00,2025-05,11,Sahara Cash & Carry,Sharjah
+668,2025-05-17 08:50:00,2025-05,18,Khalifa Staff Catering LLC,Abu Dhabi
+690,2025-05-16 10:37:00,2025-05,18,Khalifa Staff Catering LLC,Abu Dhabi
+676,2025-05-16 07:00:00,2025-05,10,Corniche Daily Needs LLC,Abu Dhabi
+677,2025-05-12 09:52:00,2025-05,21,Nakheel Fresh Foods Trading,Dubai
+689,2025-05-11 12:32:00,2025-05,13,Pearl Hotel Supplies LLC,Dubai
+667,2025-05-10 14:03:00,2025-05,9,Desert Palm Hypermarket,Abu Dhabi
+682,2025-05-10 11:57:00,2025-05,11,Sahara Cash & Carry,Sharjah
+683,2025-05-10 11:43:00,2025-05,8,Marina Mart Grocery,Dubai
+675,2025-05-09 07:18:00,2025-05,13,Pearl Hotel Supplies LLC,Dubai
+674,2025-05-08 16:01:00,2025-05,8,Marina Mart Grocery,Dubai
+671,2025-05-07 13:29:00,2025-05,24,Qasr Al Bahr Grocery,Al Ain
+679,2025-05-06 16:51:00,2025-05,11,Sahara Cash & Carry,Sharjah
+670,2025-05-05 12:50:00,2025-05,20,Coral Bay Resort Supplies,Ras Al Khaimah
+684,2025-05-01 15:49:00,2025-05,15,Emirates Family Mart,Ajman
+646,2025-04-28 12:22:00,2025-04,18,Khalifa Staff Catering LLC,Abu Dhabi
+653,2025-04-27 14:31:00,2025-04,22,Horizon School Canteens,Abu Dhabi
+663,2025-04-26 08:41:00,2025-04,23,Silver Sands Cafeteria,Fujairah
+666,2025-04-25 15:51:00,2025-04,8,Marina Mart Grocery,Dubai
+654,2025-04-25 15:47:00,2025-04,20,Coral Bay Resort Supplies,Ras Al Khaimah
+660,2025-04-24 10:48:00,2025-04,20,Coral Bay Resort Supplies,Ras Al Khaimah
+644,2025-04-23 14:53:00,2025-04,21,Nakheel Fresh Foods Trading,Dubai
+648,2025-04-22 14:10:00,2025-04,22,Horizon School Canteens,Abu Dhabi
+652,2025-04-18 17:56:00,2025-04,12,Falcon Catering Services,Dubai
+649,2025-04-18 09:45:00,2025-04,21,Nakheel Fresh Foods Trading,Dubai
+664,2025-04-18 08:31:00,2025-04,14,Oasis Canteen Solutions,Al Ain
+661,2025-04-17 14:00:00,2025-04,6,Al Noor Fresh Supermarket LLC,Dubai
+656,2025-04-16 08:11:00,2025-04,19,Mirage Cafe Chain,Sharjah
+657,2025-04-15 09:59:00,2025-04,7,Gulf Basket Trading LLC,Dubai
+665,2025-04-12 10:38:00,2025-04,18,Khalifa Staff Catering LLC,Abu Dhabi
+643,2025-04-12 10:10:00,2025-04,9,Desert Palm Hypermarket,Abu Dhabi
+651,2025-04-11 13:29:00,2025-04,7,Gulf Basket Trading LLC,Dubai
+662,2025-04-10 16:29:00,2025-04,10,Corniche Daily Needs LLC,Abu Dhabi
+647,2025-04-10 10:11:00,2025-04,10,Corniche Daily Needs LLC,Abu Dhabi
+658,2025-04-04 09:47:00,2025-04,14,Oasis Canteen Solutions,Al Ain
+650,2025-04-04 09:41:00,2025-04,15,Emirates Family Mart,Ajman
+655,2025-04-03 17:02:00,2025-04,11,Sahara Cash & Carry,Sharjah
+659,2025-04-03 13:44:00,2025-04,18,Khalifa Staff Catering LLC,Abu Dhabi
+645,2025-04-03 13:00:00,2025-04,15,Emirates Family Mart,Ajman
+629,2025-03-28 13:14:00,2025-03,19,Mirage Cafe Chain,Sharjah
+622,2025-03-28 11:01:00,2025-03,21,Nakheel Fresh Foods Trading,Dubai
+638,2025-03-27 16:53:00,2025-03,20,Coral Bay Resort Supplies,Ras Al Khaimah
+637,2025-03-26 09:04:00,2025-03,22,Horizon School Canteens,Abu Dhabi
+632,2025-03-25 14:04:00,2025-03,8,Marina Mart Grocery,Dubai
+633,2025-03-25 10:18:00,2025-03,23,Silver Sands Cafeteria,Fujairah
+630,2025-03-23 17:34:00,2025-03,24,Qasr Al Bahr Grocery,Al Ain
+642,2025-03-22 12:18:00,2025-03,15,Emirates Family Mart,Ajman
+631,2025-03-21 08:25:00,2025-03,23,Silver Sands Cafeteria,Fujairah
+627,2025-03-20 10:28:00,2025-03,15,Emirates Family Mart,Ajman
+634,2025-03-17 10:37:00,2025-03,17,Al Wasl Minimarket,Dubai
+623,2025-03-16 16:41:00,2025-03,21,Nakheel Fresh Foods Trading,Dubai
+620,2025-03-15 16:40:00,2025-03,14,Oasis Canteen Solutions,Al Ain
+636,2025-03-14 14:43:00,2025-03,23,Silver Sands Cafeteria,Fujairah
+635,2025-03-14 10:11:00,2025-03,24,Qasr Al Bahr Grocery,Al Ain
+621,2025-03-13 14:25:00,2025-03,7,Gulf Basket Trading LLC,Dubai
+639,2025-03-09 07:37:00,2025-03,21,Nakheel Fresh Foods Trading,Dubai
+625,2025-03-09 07:21:00,2025-03,9,Desert Palm Hypermarket,Abu Dhabi
+624,2025-03-08 10:10:00,2025-03,24,Qasr Al Bahr Grocery,Al Ain
+641,2025-03-05 11:12:00,2025-03,17,Al Wasl Minimarket,Dubai
+626,2025-03-03 07:34:00,2025-03,23,Silver Sands Cafeteria,Fujairah
+640,2025-03-02 12:29:00,2025-03,19,Mirage Cafe Chain,Sharjah
+628,2025-03-01 12:27:00,2025-03,17,Al Wasl Minimarket,Dubai
+597,2025-02-28 08:55:00,2025-02,14,Oasis Canteen Solutions,Al Ain
+606,2025-02-27 11:58:00,2025-02,12,Falcon Catering Services,Dubai
+603,2025-02-25 10:56:00,2025-02,18,Khalifa Staff Catering LLC,Abu Dhabi
+616,2025-02-24 14:38:00,2025-02,15,Emirates Family Mart,Ajman
+614,2025-02-24 08:37:00,2025-02,10,Corniche Daily Needs LLC,Abu Dhabi
+613,2025-02-23 10:43:00,2025-02,14,Oasis Canteen Solutions,Al Ain
+601,2025-02-21 16:08:00,2025-02,12,Falcon Catering Services,Dubai
+609,2025-02-18 12:10:00,2025-02,20,Coral Bay Resort Supplies,Ras Al Khaimah
+615,2025-02-17 14:33:00,2025-02,19,Mirage Cafe Chain,Sharjah
+607,2025-02-16 10:13:00,2025-02,6,Al Noor Fresh Supermarket LLC,Dubai
+604,2025-02-15 15:28:00,2025-02,22,Horizon School Canteens,Abu Dhabi
+598,2025-02-15 08:15:00,2025-02,15,Emirates Family Mart,Ajman
+608,2025-02-12 16:21:00,2025-02,12,Falcon Catering Services,Dubai
+602,2025-02-11 12:12:00,2025-02,15,Emirates Family Mart,Ajman
+619,2025-02-11 10:38:00,2025-02,14,Oasis Canteen Solutions,Al Ain
+610,2025-02-09 10:23:00,2025-02,15,Emirates Family Mart,Ajman
+611,2025-02-08 17:25:00,2025-02,23,Silver Sands Cafeteria,Fujairah
+599,2025-02-08 15:05:00,2025-02,23,Silver Sands Cafeteria,Fujairah
+600,2025-02-07 07:15:00,2025-02,14,Oasis Canteen Solutions,Al Ain
+617,2025-02-06 07:56:00,2025-02,20,Coral Bay Resort Supplies,Ras Al Khaimah
+618,2025-02-03 17:50:00,2025-02,19,Mirage Cafe Chain,Sharjah
+605,2025-02-03 17:27:00,2025-02,11,Sahara Cash & Carry,Sharjah
+612,2025-02-02 17:10:00,2025-02,8,Marina Mart Grocery,Dubai
+591,2025-01-28 14:31:00,2025-01,9,Desert Palm Hypermarket,Abu Dhabi
+588,2025-01-28 11:47:00,2025-01,20,Coral Bay Resort Supplies,Ras Al Khaimah
+583,2025-01-26 08:58:00,2025-01,21,Nakheel Fresh Foods Trading,Dubai
+578,2025-01-24 12:49:00,2025-01,7,Gulf Basket Trading LLC,Dubai
+587,2025-01-23 15:22:00,2025-01,10,Corniche Daily Needs LLC,Abu Dhabi
+579,2025-01-23 13:54:00,2025-01,16,Blue Dune Restaurants Group,Dubai
+580,2025-01-23 13:23:00,2025-01,23,Silver Sands Cafeteria,Fujairah
+581,2025-01-23 08:10:00,2025-01,10,Corniche Daily Needs LLC,Abu Dhabi
+577,2025-01-22 10:06:00,2025-01,10,Corniche Daily Needs LLC,Abu Dhabi
+582,2025-01-22 07:42:00,2025-01,21,Nakheel Fresh Foods Trading,Dubai
+594,2025-01-20 13:18:00,2025-01,12,Falcon Catering Services,Dubai
+586,2025-01-19 15:19:00,2025-01,14,Oasis Canteen Solutions,Al Ain
+574,2025-01-19 15:04:00,2025-01,20,Coral Bay Resort Supplies,Ras Al Khaimah
+585,2025-01-19 13:20:00,2025-01,12,Falcon Catering Services,Dubai
+595,2025-01-18 13:06:00,2025-01,13,Pearl Hotel Supplies LLC,Dubai
+584,2025-01-16 16:12:00,2025-01,7,Gulf Basket Trading LLC,Dubai
+593,2025-01-12 10:12:00,2025-01,16,Blue Dune Restaurants Group,Dubai
+592,2025-01-11 09:44:00,2025-01,18,Khalifa Staff Catering LLC,Abu Dhabi
+596,2025-01-10 09:32:00,2025-01,17,Al Wasl Minimarket,Dubai
+576,2025-01-08 10:12:00,2025-01,7,Gulf Basket Trading LLC,Dubai
+590,2025-01-07 11:57:00,2025-01,21,Nakheel Fresh Foods Trading,Dubai
+589,2025-01-05 13:20:00,2025-01,23,Silver Sands Cafeteria,Fujairah
+575,2025-01-04 14:08:00,2025-01,22,Horizon School Canteens,Abu Dhabi
+561,2024-12-27 17:24:00,2024-12,13,Pearl Hotel Supplies LLC,Dubai
+564,2024-12-27 12:01:00,2024-12,18,Khalifa Staff Catering LLC,Abu Dhabi
+558,2024-12-24 16:36:00,2024-12,16,Blue Dune Restaurants Group,Dubai
+560,2024-12-21 10:27:00,2024-12,12,Falcon Catering Services,Dubai
+553,2024-12-19 13:40:00,2024-12,8,Marina Mart Grocery,Dubai
+557,2024-12-19 11:57:00,2024-12,22,Horizon School Canteens,Abu Dhabi
+572,2024-12-18 16:53:00,2024-12,14,Oasis Canteen Solutions,Al Ain
+569,2024-12-14 11:34:00,2024-12,7,Gulf Basket Trading LLC,Dubai
+551,2024-12-14 10:41:00,2024-12,15,Emirates Family Mart,Ajman
+552,2024-12-13 17:41:00,2024-12,15,Emirates Family Mart,Ajman
+554,2024-12-12 14:12:00,2024-12,19,Mirage Cafe Chain,Sharjah
+565,2024-12-11 09:11:00,2024-12,8,Marina Mart Grocery,Dubai
+567,2024-12-10 16:21:00,2024-12,22,Horizon School Canteens,Abu Dhabi
+566,2024-12-07 10:24:00,2024-12,8,Marina Mart Grocery,Dubai
+573,2024-12-05 14:07:00,2024-12,7,Gulf Basket Trading LLC,Dubai
+556,2024-12-05 12:51:00,2024-12,16,Blue Dune Restaurants Group,Dubai
+559,2024-12-04 12:51:00,2024-12,22,Horizon School Canteens,Abu Dhabi
+555,2024-12-03 08:50:00,2024-12,9,Desert Palm Hypermarket,Abu Dhabi
+562,2024-12-03 07:30:00,2024-12,20,Coral Bay Resort Supplies,Ras Al Khaimah
+568,2024-12-02 07:18:00,2024-12,15,Emirates Family Mart,Ajman
+563,2024-12-01 14:49:00,2024-12,13,Pearl Hotel Supplies LLC,Dubai
+571,2024-12-01 13:06:00,2024-12,20,Coral Bay Resort Supplies,Ras Al Khaimah
+570,2024-12-01 11:48:00,2024-12,11,Sahara Cash & Carry,Sharjah
+534,2024-11-28 17:23:00,2024-11,14,Oasis Canteen Solutions,Al Ain
+549,2024-11-28 10:29:00,2024-11,21,Nakheel Fresh Foods Trading,Dubai
+531,2024-11-27 15:50:00,2024-11,6,Al Noor Fresh Supermarket LLC,Dubai
+547,2024-11-27 07:58:00,2024-11,19,Mirage Cafe Chain,Sharjah
+538,2024-11-26 17:12:00,2024-11,7,Gulf Basket Trading LLC,Dubai
+548,2024-11-26 07:52:00,2024-11,19,Mirage Cafe Chain,Sharjah
+529,2024-11-24 09:48:00,2024-11,8,Marina Mart Grocery,Dubai
+536,2024-11-24 07:07:00,2024-11,19,Mirage Cafe Chain,Sharjah
+537,2024-11-23 10:51:00,2024-11,10,Corniche Daily Needs LLC,Abu Dhabi
+530,2024-11-23 07:08:00,2024-11,11,Sahara Cash & Carry,Sharjah
+545,2024-11-16 09:08:00,2024-11,7,Gulf Basket Trading LLC,Dubai
+544,2024-11-15 09:36:00,2024-11,11,Sahara Cash & Carry,Sharjah
+532,2024-11-14 16:54:00,2024-11,15,Emirates Family Mart,Ajman
+550,2024-11-12 10:23:00,2024-11,19,Mirage Cafe Chain,Sharjah
+539,2024-11-12 08:59:00,2024-11,17,Al Wasl Minimarket,Dubai
+546,2024-11-11 09:27:00,2024-11,12,Falcon Catering Services,Dubai
+533,2024-11-10 11:15:00,2024-11,19,Mirage Cafe Chain,Sharjah
+535,2024-11-07 12:38:00,2024-11,16,Blue Dune Restaurants Group,Dubai
+542,2024-11-07 07:28:00,2024-11,15,Emirates Family Mart,Ajman
+541,2024-11-05 08:38:00,2024-11,20,Coral Bay Resort Supplies,Ras Al Khaimah
+540,2024-11-04 07:41:00,2024-11,17,Al Wasl Minimarket,Dubai
+543,2024-11-03 14:38:00,2024-11,10,Corniche Daily Needs LLC,Abu Dhabi
+508,2024-10-26 13:43:00,2024-10,8,Marina Mart Grocery,Dubai
+521,2024-10-23 17:48:00,2024-10,13,Pearl Hotel Supplies LLC,Dubai
+511,2024-10-23 16:01:00,2024-10,22,Horizon School Canteens,Abu Dhabi
+517,2024-10-23 15:15:00,2024-10,15,Emirates Family Mart,Ajman
+519,2024-10-23 12:47:00,2024-10,19,Mirage Cafe Chain,Sharjah
+522,2024-10-22 14:13:00,2024-10,11,Sahara Cash & Carry,Sharjah
+510,2024-10-22 13:09:00,2024-10,7,Gulf Basket Trading LLC,Dubai
+524,2024-10-21 07:47:00,2024-10,15,Emirates Family Mart,Ajman
+516,2024-10-19 09:17:00,2024-10,20,Coral Bay Resort Supplies,Ras Al Khaimah
+523,2024-10-18 15:06:00,2024-10,12,Falcon Catering Services,Dubai
+520,2024-10-17 15:19:00,2024-10,18,Khalifa Staff Catering LLC,Abu Dhabi
+527,2024-10-17 11:03:00,2024-10,11,Sahara Cash & Carry,Sharjah
+513,2024-10-16 12:38:00,2024-10,6,Al Noor Fresh Supermarket LLC,Dubai
+525,2024-10-13 17:16:00,2024-10,18,Khalifa Staff Catering LLC,Abu Dhabi
+518,2024-10-13 07:41:00,2024-10,20,Coral Bay Resort Supplies,Ras Al Khaimah
+512,2024-10-12 10:35:00,2024-10,11,Sahara Cash & Carry,Sharjah
+526,2024-10-10 17:44:00,2024-10,9,Desert Palm Hypermarket,Abu Dhabi
+528,2024-10-07 15:00:00,2024-10,18,Khalifa Staff Catering LLC,Abu Dhabi
+514,2024-10-04 12:02:00,2024-10,16,Blue Dune Restaurants Group,Dubai
+515,2024-10-02 14:49:00,2024-10,19,Mirage Cafe Chain,Sharjah
+509,2024-10-01 11:34:00,2024-10,18,Khalifa Staff Catering LLC,Abu Dhabi
+507,2024-10-01 09:48:00,2024-10,15,Emirates Family Mart,Ajman
+501,2024-09-28 14:37:00,2024-09,12,Falcon Catering Services,Dubai
+485,2024-09-25 09:59:00,2024-09,22,Horizon School Canteens,Abu Dhabi
+491,2024-09-22 09:07:00,2024-09,7,Gulf Basket Trading LLC,Dubai
+504,2024-09-22 08:47:00,2024-09,16,Blue Dune Restaurants Group,Dubai
+494,2024-09-22 08:21:00,2024-09,7,Gulf Basket Trading LLC,Dubai
+493,2024-09-21 16:49:00,2024-09,14,Oasis Canteen Solutions,Al Ain
+486,2024-09-21 13:43:00,2024-09,7,Gulf Basket Trading LLC,Dubai
+505,2024-09-19 13:01:00,2024-09,21,Nakheel Fresh Foods Trading,Dubai
+506,2024-09-19 07:52:00,2024-09,11,Sahara Cash & Carry,Sharjah
+492,2024-09-14 13:49:00,2024-09,13,Pearl Hotel Supplies LLC,Dubai
+500,2024-09-13 17:15:00,2024-09,13,Pearl Hotel Supplies LLC,Dubai
+489,2024-09-11 17:32:00,2024-09,11,Sahara Cash & Carry,Sharjah
+498,2024-09-09 17:02:00,2024-09,14,Oasis Canteen Solutions,Al Ain
+497,2024-09-09 16:34:00,2024-09,16,Blue Dune Restaurants Group,Dubai
+502,2024-09-09 07:50:00,2024-09,16,Blue Dune Restaurants Group,Dubai
+488,2024-09-07 17:32:00,2024-09,15,Emirates Family Mart,Ajman
+503,2024-09-07 16:01:00,2024-09,18,Khalifa Staff Catering LLC,Abu Dhabi
+496,2024-09-07 13:58:00,2024-09,22,Horizon School Canteens,Abu Dhabi
+495,2024-09-04 15:03:00,2024-09,19,Mirage Cafe Chain,Sharjah
+490,2024-09-04 14:19:00,2024-09,8,Marina Mart Grocery,Dubai
+487,2024-09-03 12:31:00,2024-09,14,Oasis Canteen Solutions,Al Ain
+499,2024-09-02 15:04:00,2024-09,13,Pearl Hotel Supplies LLC,Dubai
+473,2024-08-23 16:33:00,2024-08,17,Al Wasl Minimarket,Dubai
+465,2024-08-23 12:23:00,2024-08,14,Oasis Canteen Solutions,Al Ain
+475,2024-08-22 17:39:00,2024-08,13,Pearl Hotel Supplies LLC,Dubai
+468,2024-08-22 12:22:00,2024-08,8,Marina Mart Grocery,Dubai
+463,2024-08-22 11:32:00,2024-08,15,Emirates Family Mart,Ajman
+466,2024-08-22 11:18:00,2024-08,10,Corniche Daily Needs LLC,Abu Dhabi
+472,2024-08-20 14:50:00,2024-08,11,Sahara Cash & Carry,Sharjah
+467,2024-08-20 08:34:00,2024-08,20,Coral Bay Resort Supplies,Ras Al Khaimah
+476,2024-08-18 08:05:00,2024-08,13,Pearl Hotel Supplies LLC,Dubai
+482,2024-08-18 07:18:00,2024-08,8,Marina Mart Grocery,Dubai
+474,2024-08-17 12:33:00,2024-08,13,Pearl Hotel Supplies LLC,Dubai
+478,2024-08-16 10:59:00,2024-08,20,Coral Bay Resort Supplies,Ras Al Khaimah
+483,2024-08-15 07:11:00,2024-08,16,Blue Dune Restaurants Group,Dubai
+470,2024-08-14 15:43:00,2024-08,21,Nakheel Fresh Foods Trading,Dubai
+479,2024-08-12 12:46:00,2024-08,9,Desert Palm Hypermarket,Abu Dhabi
+477,2024-08-11 10:24:00,2024-08,11,Sahara Cash & Carry,Sharjah
+480,2024-08-10 12:11:00,2024-08,11,Sahara Cash & Carry,Sharjah
+469,2024-08-10 07:06:00,2024-08,8,Marina Mart Grocery,Dubai
+481,2024-08-06 12:40:00,2024-08,18,Khalifa Staff Catering LLC,Abu Dhabi
+484,2024-08-06 12:09:00,2024-08,15,Emirates Family Mart,Ajman
+464,2024-08-04 10:50:00,2024-08,17,Al Wasl Minimarket,Dubai
+471,2024-08-01 15:57:00,2024-08,6,Al Noor Fresh Supermarket LLC,Dubai
+448,2024-07-28 08:51:00,2024-07,18,Khalifa Staff Catering LLC,Abu Dhabi
+454,2024-07-28 08:13:00,2024-07,16,Blue Dune Restaurants Group,Dubai
+444,2024-07-27 10:41:00,2024-07,8,Marina Mart Grocery,Dubai
+443,2024-07-22 17:09:00,2024-07,19,Mirage Cafe Chain,Sharjah
+441,2024-07-22 16:15:00,2024-07,14,Oasis Canteen Solutions,Al Ain
+458,2024-07-22 15:45:00,2024-07,12,Falcon Catering Services,Dubai
+452,2024-07-22 08:45:00,2024-07,9,Desert Palm Hypermarket,Abu Dhabi
+456,2024-07-20 17:48:00,2024-07,8,Marina Mart Grocery,Dubai
+446,2024-07-18 15:34:00,2024-07,15,Emirates Family Mart,Ajman
+460,2024-07-17 14:06:00,2024-07,20,Coral Bay Resort Supplies,Ras Al Khaimah
+457,2024-07-15 17:48:00,2024-07,17,Al Wasl Minimarket,Dubai
+462,2024-07-13 10:45:00,2024-07,9,Desert Palm Hypermarket,Abu Dhabi
+461,2024-07-12 16:09:00,2024-07,14,Oasis Canteen Solutions,Al Ain
+450,2024-07-11 14:13:00,2024-07,19,Mirage Cafe Chain,Sharjah
+451,2024-07-11 14:07:00,2024-07,13,Pearl Hotel Supplies LLC,Dubai
+442,2024-07-11 08:52:00,2024-07,6,Al Noor Fresh Supermarket LLC,Dubai
+447,2024-07-10 12:49:00,2024-07,10,Corniche Daily Needs LLC,Abu Dhabi
+449,2024-07-06 11:33:00,2024-07,19,Mirage Cafe Chain,Sharjah
+459,2024-07-04 13:20:00,2024-07,18,Khalifa Staff Catering LLC,Abu Dhabi
+455,2024-07-02 12:09:00,2024-07,6,Al Noor Fresh Supermarket LLC,Dubai
+453,2024-07-01 16:22:00,2024-07,7,Gulf Basket Trading LLC,Dubai
+445,2024-07-01 09:41:00,2024-07,19,Mirage Cafe Chain,Sharjah
+438,2024-06-28 11:49:00,2024-06,19,Mirage Cafe Chain,Sharjah
+430,2024-06-27 13:32:00,2024-06,20,Coral Bay Resort Supplies,Ras Al Khaimah
+435,2024-06-27 11:07:00,2024-06,12,Falcon Catering Services,Dubai
+432,2024-06-27 08:51:00,2024-06,17,Al Wasl Minimarket,Dubai
+434,2024-06-26 14:56:00,2024-06,13,Pearl Hotel Supplies LLC,Dubai
+424,2024-06-26 10:50:00,2024-06,14,Oasis Canteen Solutions,Al Ain
+423,2024-06-25 15:19:00,2024-06,14,Oasis Canteen Solutions,Al Ain
+429,2024-06-21 07:13:00,2024-06,19,Mirage Cafe Chain,Sharjah
+426,2024-06-20 08:16:00,2024-06,19,Mirage Cafe Chain,Sharjah
+425,2024-06-20 07:00:00,2024-06,16,Blue Dune Restaurants Group,Dubai
+436,2024-06-18 17:27:00,2024-06,20,Coral Bay Resort Supplies,Ras Al Khaimah
+428,2024-06-16 13:49:00,2024-06,18,Khalifa Staff Catering LLC,Abu Dhabi
+433,2024-06-15 10:34:00,2024-06,20,Coral Bay Resort Supplies,Ras Al Khaimah
+421,2024-06-11 14:08:00,2024-06,14,Oasis Canteen Solutions,Al Ain
+431,2024-06-11 11:47:00,2024-06,10,Corniche Daily Needs LLC,Abu Dhabi
+422,2024-06-09 10:18:00,2024-06,6,Al Noor Fresh Supermarket LLC,Dubai
+439,2024-06-08 14:37:00,2024-06,18,Khalifa Staff Catering LLC,Abu Dhabi
+420,2024-06-08 08:30:00,2024-06,11,Sahara Cash & Carry,Sharjah
+440,2024-06-07 13:38:00,2024-06,6,Al Noor Fresh Supermarket LLC,Dubai
+437,2024-06-02 09:17:00,2024-06,17,Al Wasl Minimarket,Dubai
+427,2024-06-01 07:25:00,2024-06,13,Pearl Hotel Supplies LLC,Dubai
+414,2024-05-28 13:55:00,2024-05,11,Sahara Cash & Carry,Sharjah
+415,2024-05-28 10:53:00,2024-05,6,Al Noor Fresh Supermarket LLC,Dubai
+417,2024-05-28 07:12:00,2024-05,19,Mirage Cafe Chain,Sharjah
+418,2024-05-27 17:18:00,2024-05,13,Pearl Hotel Supplies LLC,Dubai
+404,2024-05-23 12:42:00,2024-05,6,Al Noor Fresh Supermarket LLC,Dubai
+402,2024-05-23 09:33:00,2024-05,7,Gulf Basket Trading LLC,Dubai
+410,2024-05-22 10:15:00,2024-05,11,Sahara Cash & Carry,Sharjah
+408,2024-05-20 12:57:00,2024-05,21,Nakheel Fresh Foods Trading,Dubai
+401,2024-05-20 10:31:00,2024-05,14,Oasis Canteen Solutions,Al Ain
+416,2024-05-16 16:44:00,2024-05,7,Gulf Basket Trading LLC,Dubai
+405,2024-05-16 13:59:00,2024-05,14,Oasis Canteen Solutions,Al Ain
+409,2024-05-13 07:51:00,2024-05,10,Corniche Daily Needs LLC,Abu Dhabi
+412,2024-05-11 16:44:00,2024-05,17,Al Wasl Minimarket,Dubai
+400,2024-05-11 13:28:00,2024-05,12,Falcon Catering Services,Dubai
+403,2024-05-10 12:22:00,2024-05,14,Oasis Canteen Solutions,Al Ain
+411,2024-05-09 12:06:00,2024-05,8,Marina Mart Grocery,Dubai
+399,2024-05-09 08:23:00,2024-05,6,Al Noor Fresh Supermarket LLC,Dubai
+419,2024-05-06 08:35:00,2024-05,11,Sahara Cash & Carry,Sharjah
+413,2024-05-05 08:04:00,2024-05,15,Emirates Family Mart,Ajman
+406,2024-05-03 12:58:00,2024-05,10,Corniche Daily Needs LLC,Abu Dhabi
+407,2024-05-02 13:31:00,2024-05,12,Falcon Catering Services,Dubai
+398,2024-04-28 14:13:00,2024-04,9,Desert Palm Hypermarket,Abu Dhabi
+384,2024-04-27 12:57:00,2024-04,17,Al Wasl Minimarket,Dubai
+383,2024-04-27 12:57:00,2024-04,17,Al Wasl Minimarket,Dubai
+397,2024-04-26 15:51:00,2024-04,8,Marina Mart Grocery,Dubai
+393,2024-04-26 14:03:00,2024-04,14,Oasis Canteen Solutions,Al Ain
+380,2024-04-24 17:23:00,2024-04,13,Pearl Hotel Supplies LLC,Dubai
+387,2024-04-24 15:01:00,2024-04,18,Khalifa Staff Catering LLC,Abu Dhabi
+394,2024-04-24 07:00:00,2024-04,16,Blue Dune Restaurants Group,Dubai
+395,2024-04-23 16:14:00,2024-04,9,Desert Palm Hypermarket,Abu Dhabi
+388,2024-04-21 12:20:00,2024-04,15,Emirates Family Mart,Ajman
+389,2024-04-14 10:42:00,2024-04,17,Al Wasl Minimarket,Dubai
+378,2024-04-14 07:20:00,2024-04,15,Emirates Family Mart,Ajman
+382,2024-04-10 07:29:00,2024-04,11,Sahara Cash & Carry,Sharjah
+392,2024-04-09 16:31:00,2024-04,15,Emirates Family Mart,Ajman
+385,2024-04-08 15:42:00,2024-04,13,Pearl Hotel Supplies LLC,Dubai
+386,2024-04-03 14:58:00,2024-04,10,Corniche Daily Needs LLC,Abu Dhabi
+379,2024-04-03 10:07:00,2024-04,7,Gulf Basket Trading LLC,Dubai
+391,2024-04-03 08:58:00,2024-04,18,Khalifa Staff Catering LLC,Abu Dhabi
+390,2024-04-02 16:28:00,2024-04,6,Al Noor Fresh Supermarket LLC,Dubai
+396,2024-04-02 09:25:00,2024-04,8,Marina Mart Grocery,Dubai
+381,2024-04-01 11:15:00,2024-04,6,Al Noor Fresh Supermarket LLC,Dubai
+368,2024-03-27 14:37:00,2024-03,7,Gulf Basket Trading LLC,Dubai
+361,2024-03-26 15:49:00,2024-03,18,Khalifa Staff Catering LLC,Abu Dhabi
+366,2024-03-26 10:57:00,2024-03,10,Corniche Daily Needs LLC,Abu Dhabi
+374,2024-03-26 08:29:00,2024-03,12,Falcon Catering Services,Dubai
+371,2024-03-25 15:57:00,2024-03,17,Al Wasl Minimarket,Dubai
+373,2024-03-24 12:38:00,2024-03,14,Oasis Canteen Solutions,Al Ain
+365,2024-03-22 13:43:00,2024-03,19,Mirage Cafe Chain,Sharjah
+377,2024-03-20 16:48:00,2024-03,12,Falcon Catering Services,Dubai
+375,2024-03-20 16:40:00,2024-03,15,Emirates Family Mart,Ajman
+360,2024-03-18 15:30:00,2024-03,14,Oasis Canteen Solutions,Al Ain
+364,2024-03-15 10:02:00,2024-03,7,Gulf Basket Trading LLC,Dubai
+376,2024-03-13 09:21:00,2024-03,21,Nakheel Fresh Foods Trading,Dubai
+359,2024-03-12 10:37:00,2024-03,16,Blue Dune Restaurants Group,Dubai
+369,2024-03-11 13:59:00,2024-03,18,Khalifa Staff Catering LLC,Abu Dhabi
+372,2024-03-11 12:05:00,2024-03,8,Marina Mart Grocery,Dubai
+362,2024-03-11 09:16:00,2024-03,11,Sahara Cash & Carry,Sharjah
+358,2024-03-10 08:19:00,2024-03,8,Marina Mart Grocery,Dubai
+363,2024-03-09 16:45:00,2024-03,19,Mirage Cafe Chain,Sharjah
+367,2024-03-09 16:30:00,2024-03,6,Al Noor Fresh Supermarket LLC,Dubai
+370,2024-03-08 17:38:00,2024-03,10,Corniche Daily Needs LLC,Abu Dhabi
+357,2024-03-01 08:26:00,2024-03,13,Pearl Hotel Supplies LLC,Dubai
+350,2024-02-27 17:29:00,2024-02,9,Desert Palm Hypermarket,Abu Dhabi
+356,2024-02-27 17:22:00,2024-02,17,Al Wasl Minimarket,Dubai
+342,2024-02-24 13:03:00,2024-02,19,Mirage Cafe Chain,Sharjah
+348,2024-02-24 09:53:00,2024-02,8,Marina Mart Grocery,Dubai
+341,2024-02-23 11:01:00,2024-02,11,Sahara Cash & Carry,Sharjah
+347,2024-02-18 11:04:00,2024-02,13,Pearl Hotel Supplies LLC,Dubai
+352,2024-02-17 10:05:00,2024-02,8,Marina Mart Grocery,Dubai
+355,2024-02-16 15:21:00,2024-02,18,Khalifa Staff Catering LLC,Abu Dhabi
+336,2024-02-14 09:25:00,2024-02,15,Emirates Family Mart,Ajman
+340,2024-02-13 14:10:00,2024-02,16,Blue Dune Restaurants Group,Dubai
+351,2024-02-12 17:46:00,2024-02,17,Al Wasl Minimarket,Dubai
+349,2024-02-12 09:41:00,2024-02,13,Pearl Hotel Supplies LLC,Dubai
+354,2024-02-10 15:05:00,2024-02,9,Desert Palm Hypermarket,Abu Dhabi
+343,2024-02-08 16:45:00,2024-02,8,Marina Mart Grocery,Dubai
+346,2024-02-07 17:17:00,2024-02,9,Desert Palm Hypermarket,Abu Dhabi
+353,2024-02-06 08:48:00,2024-02,14,Oasis Canteen Solutions,Al Ain
+345,2024-02-05 10:30:00,2024-02,15,Emirates Family Mart,Ajman
+344,2024-02-04 12:28:00,2024-02,17,Al Wasl Minimarket,Dubai
+337,2024-02-02 10:17:00,2024-02,15,Emirates Family Mart,Ajman
+338,2024-02-01 08:39:00,2024-02,12,Falcon Catering Services,Dubai
+339,2024-02-01 08:16:00,2024-02,8,Marina Mart Grocery,Dubai
+330,2024-01-27 13:34:00,2024-01,7,Gulf Basket Trading LLC,Dubai
+317,2024-01-27 11:15:00,2024-01,16,Blue Dune Restaurants Group,Dubai
+335,2024-01-26 11:17:00,2024-01,18,Khalifa Staff Catering LLC,Abu Dhabi
+331,2024-01-23 15:40:00,2024-01,8,Marina Mart Grocery,Dubai
+319,2024-01-20 09:25:00,2024-01,14,Oasis Canteen Solutions,Al Ain
+320,2024-01-19 17:56:00,2024-01,10,Corniche Daily Needs LLC,Abu Dhabi
+321,2024-01-18 12:16:00,2024-01,13,Pearl Hotel Supplies LLC,Dubai
+328,2024-01-17 16:10:00,2024-01,8,Marina Mart Grocery,Dubai
+333,2024-01-14 15:22:00,2024-01,15,Emirates Family Mart,Ajman
+316,2024-01-11 16:28:00,2024-01,18,Khalifa Staff Catering LLC,Abu Dhabi
+329,2024-01-11 16:20:00,2024-01,12,Falcon Catering Services,Dubai
+327,2024-01-10 12:46:00,2024-01,19,Mirage Cafe Chain,Sharjah
+324,2024-01-09 11:42:00,2024-01,14,Oasis Canteen Solutions,Al Ain
+318,2024-01-07 10:52:00,2024-01,14,Oasis Canteen Solutions,Al Ain
+334,2024-01-06 08:32:00,2024-01,11,Sahara Cash & Carry,Sharjah
+323,2024-01-05 15:57:00,2024-01,14,Oasis Canteen Solutions,Al Ain
+326,2024-01-05 12:27:00,2024-01,16,Blue Dune Restaurants Group,Dubai
+332,2024-01-04 10:11:00,2024-01,13,Pearl Hotel Supplies LLC,Dubai
+325,2024-01-02 15:58:00,2024-01,13,Pearl Hotel Supplies LLC,Dubai
+322,2024-01-01 10:51:00,2024-01,13,Pearl Hotel Supplies LLC,Dubai
+297,2023-12-26 17:02:00,2023-12,13,Pearl Hotel Supplies LLC,Dubai
+307,2023-12-24 08:08:00,2023-12,13,Pearl Hotel Supplies LLC,Dubai
+300,2023-12-22 07:13:00,2023-12,11,Sahara Cash & Carry,Sharjah
+313,2023-12-20 17:58:00,2023-12,9,Desert Palm Hypermarket,Abu Dhabi
+309,2023-12-17 16:08:00,2023-12,7,Gulf Basket Trading LLC,Dubai
+305,2023-12-16 16:08:00,2023-12,12,Falcon Catering Services,Dubai
+306,2023-12-16 16:05:00,2023-12,8,Marina Mart Grocery,Dubai
+302,2023-12-16 09:43:00,2023-12,15,Emirates Family Mart,Ajman
+296,2023-12-15 15:54:00,2023-12,14,Oasis Canteen Solutions,Al Ain
+310,2023-12-15 15:23:00,2023-12,19,Mirage Cafe Chain,Sharjah
+311,2023-12-14 07:55:00,2023-12,11,Sahara Cash & Carry,Sharjah
+312,2023-12-13 16:29:00,2023-12,18,Khalifa Staff Catering LLC,Abu Dhabi
+304,2023-12-13 08:04:00,2023-12,15,Emirates Family Mart,Ajman
+298,2023-12-11 14:37:00,2023-12,19,Mirage Cafe Chain,Sharjah
+314,2023-12-11 13:42:00,2023-12,19,Mirage Cafe Chain,Sharjah
+303,2023-12-10 07:13:00,2023-12,10,Corniche Daily Needs LLC,Abu Dhabi
+308,2023-12-08 07:02:00,2023-12,17,Al Wasl Minimarket,Dubai
+301,2023-12-03 11:21:00,2023-12,18,Khalifa Staff Catering LLC,Abu Dhabi
+299,2023-12-03 11:20:00,2023-12,19,Mirage Cafe Chain,Sharjah
+315,2023-12-02 08:17:00,2023-12,16,Blue Dune Restaurants Group,Dubai

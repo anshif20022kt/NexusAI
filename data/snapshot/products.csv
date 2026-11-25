@@ -1,0 +1,33 @@
+product_id,code,product,category,stock,cost
+12,BV001,Bottled Water 500ml x24,Beverages,154.0,8.0
+13,BV002,Bottled Water 1.5L x12,Beverages,22.0,9.0
+14,BV003,Orange Juice 1L x12,Beverages,176.0,28.0
+15,BV004,Cola Drink 330ml x24,Beverages,454.0,30.0
+16,BV005,Energy Drink 250ml x24,Beverages,23.0,45.0
+17,BV006,Laban 1L x12,Beverages,139.0,24.0
+18,CH001,Dishwashing Liquid 750ml,Cleaning and Household,599.0,4.0
+19,CH002,Laundry Powder 3kg,Cleaning and Household,299.0,22.0
+20,CH003,Floor Cleaner 1.5L,Cleaning and Household,118.0,6.0
+21,CH004,Bleach 1L,Cleaning and Household,168.0,3.5
+22,CH005,Toilet Tissue 48 Rolls,Cleaning and Household,524.0,24.0
+23,CH006,Kitchen Roll 6 Pack,Cleaning and Household,508.0,9.0
+24,CH007,Garbage Bags 30 Pack,Cleaning and Household,7.0,5.0
+1,FS001,Basmati Rice 5kg,Food Staples,326.0,22.0
+2,FS002,Sunflower Oil 1.5L,Food Staples,172.0,9.0
+3,FS003,White Sugar 2kg,Food Staples,644.0,6.0
+4,FS004,Wheat Flour 5kg,Food Staples,514.0,11.0
+5,FS005,Red Lentils 1kg,Food Staples,140.0,5.0
+6,FS006,Chickpeas 1kg,Food Staples,659.0,6.0
+7,FS007,Tomato Paste 800g,Food Staples,206.0,7.0
+8,FS008,Dates 1kg,Food Staples,12.0,14.0
+9,FS009,Black Tea 100 Bags,Food Staples,725.0,8.0
+10,FS010,Instant Coffee 200g,Food Staples,722.0,16.0
+11,FS011,Spaghetti 500g,Food Staples,676.0,3.0
+25,PC001,Hand Soap 500ml,Personal Care,143.0,4.0
+26,PC002,Shampoo 400ml,Personal Care,670.0,9.0
+27,PC003,Toothpaste 120g,Personal Care,679.0,4.5
+28,PC004,Hand Sanitizer 500ml,Personal Care,486.0,7.0
+29,PK001,Food Containers 500ml x50,Packaging and Disposables,130.0,12.0
+30,PK002,Paper Cups 8oz x50,Packaging and Disposables,306.0,6.0
+31,PK003,Aluminium Foil 30cm,Packaging and Disposables,6.0,8.0
+32,PK004,Cling Film 300m,Packaging and Disposables,22.0,9.0
