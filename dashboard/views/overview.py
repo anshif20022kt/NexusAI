@@ -72,11 +72,20 @@ def delta(name):
     return f"{(k_cur[name] / k_comp[name] - 1) * 100:+.1f}% vs comparison"
 
 
+def aed(x):
+    if abs(x) >= 1_000_000:
+        return f"{x / 1_000_000:.2f}M AED"
+    if abs(x) >= 1_000:
+        return f"{x / 1_000:.1f}K AED"
+    return f"{x:,.0f} AED"
+
+
 c = st.columns(5)
-c[0].metric("Revenue", f"{k_cur['Revenue']:,.0f} AED", delta("Revenue"))
-c[1].metric("Output VAT (5%)", f"{k_cur['Revenue'] * 0.05:,.0f} AED", delta("Revenue"))
+c[0].metric("Revenue", aed(k_cur["Revenue"]), delta("Revenue"))
+c[1].metric("Est. output VAT (5%)", aed(k_cur["Revenue"] * 0.05), delta("Revenue"),
+            help="Estimated as 5% of revenue. Not taken from posted invoices.")
 c[2].metric("Orders", f"{k_cur['Orders']:,}", delta("Orders"))
-c[3].metric("Average order", f"{k_cur['Average order']:,.0f} AED", delta("Average order"))
+c[3].metric("Average order", aed(k_cur["Average order"]), delta("Average order"))
 c[4].metric("Units sold", f"{k_cur['Units sold']:,.0f}", delta("Units sold"))
 
 # ---------- monthly revenue with optional comparison overlay ----------
